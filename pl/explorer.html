@@ -1,168 +1,119 @@
 <!DOCTYPE html>
 <html lang="pl">
 <head>
-  <meta charset="UTF-8">
-  <title>Full Bot List (PL) | BotFounders</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Trading Robot Explorer</title>
+  <meta name="description" content="Explore all robots">
+  <link rel="stylesheet" href="/style.css">
   <style>
     body {
-      font-family: Arial, sans-serif;
-      background: #ffffff;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen;
+      background: #f9f9f9;
+      margin: 0;
+      padding: 2rem;
       color: #222;
-      margin: 40px;
-      max-width: 900px;
     }
     h1 {
-      color: #007acc;
-      font-size: 32px;
+      font-size: 2rem;
+      margin-bottom: 1rem;
     }
     h2 {
-      margin-top: 40px;
-      border-bottom: 2px solid #eee;
-      padding-bottom: 5px;
+      font-size: 1.5rem;
+      margin-top: 2rem;
+      border-bottom: 1px solid #ddd;
     }
-    p {
-      margin: 10px 0;
-      line-height: 1.6;
+    h3 {
+      margin: 0.5rem 0 0.25rem 0;
     }
-    a {
-      color: #007acc;
-      text-decoration: none;
-      margin-right: 10px;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .lang-switch {
-      margin-top: 20px;
-      margin-bottom: 30px;
-    }
-    select {
-      padding: 8px 12px;
-      font-size: 14px;
+    .robot-entry {
+      background: white;
+      padding: 1rem;
+      margin: 0.5rem 0;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
       border-radius: 6px;
-      border: 1px solid #ccc;
+    }
+    .robot-entry a {
+      text-decoration: none;
+      color: #007acc;
+      font-weight: bold;
+    }
+    .language-selector {
+      margin-bottom: 1rem;
+    }
+    .letter-nav {
+      margin: 1rem 0;
+    }
+    .letter-nav a {
+      margin-right: 6px;
+      text-decoration: none;
+      font-weight: bold;
+      color: #007acc;
     }
   </style>
 </head>
 <body>
-  <h1>Full List of Trading Robots (PL)</h1>
-  <div class="lang-switch">
-    <label for="langSwitcher"><strong>Switch language:</strong></label>
-    <select id="langSwitcher" onchange="location = this.value;">
-      <option value="../en/explorer.html" >EN</option>
-<option value="../de/explorer.html" >DE</option>
-<option value="../es/explorer.html" >ES</option>
-<option value="../fr/explorer.html" >FR</option>
-<option value="../it/explorer.html" >IT</option>
-<option value="../pl/explorer.html" selected>PL</option>
-<option value="../pt/explorer.html" >PT</option>
-<option value="../nl/explorer.html" >NL</option>
+  <h1>Trading Robot Explorer</h1>
+  <div class="language-selector">
+    <label for="langSwitcher">Switch Language:</label>
+    <select id="langSwitcher" onchange="switchLanguage(this)">
+      <option value="en" >English</option><option value="de" >German</option><option value="es" >Spanish</option><option value="fr" >French</option><option value="it" >Italian</option><option value="nl" >Dutch</option><option value="pl" selected>Polish</option><option value="pt" >Portuguese</option>
     </select>
   </div>
-  <section>
-<h2>Robots Starting With 'A'</h2>
-<p>No robots listed under this letter yet.</p>
-</section>
-<section>
-<h2>Robots Starting With 'B'</h2>
-<p>No robots listed under this letter yet.</p>
-</section>
-<section>
-<h2>Robots Starting With 'C'</h2>
-<p>No robots listed under this letter yet.</p>
-</section>
-<section>
-<h2>Robots Starting With 'D'</h2>
-<p>No robots listed under this letter yet.</p>
-</section>
-<section>
-<h2>Robots Starting With 'E'</h2>
-<p>No robots listed under this letter yet.</p>
-</section>
-<section>
-<h2>Robots Starting With 'F'</h2>
-<p>No robots listed under this letter yet.</p>
-</section>
-<section>
-<h2>Robots Starting With 'G'</h2>
-<p>No robots listed under this letter yet.</p>
-</section>
-<section>
-<h2>Robots Starting With 'H'</h2>
-<p>No robots listed under this letter yet.</p>
-</section>
-<section>
-<h2>Robots Starting With 'I'</h2>
-<p>No robots listed under this letter yet.</p>
-</section>
-<section>
-<h2>Robots Starting With 'J'</h2>
-<p>No robots listed under this letter yet.</p>
-</section>
-<section>
-<h2>Robots Starting With 'K'</h2>
-<p>No robots listed under this letter yet.</p>
-</section>
-<section>
-<h2>Robots Starting With 'L'</h2>
-<p>No robots listed under this letter yet.</p>
-</section>
-<section>
-<h2>Robots Starting With 'M'</h2>
-<p>No robots listed under this letter yet.</p>
-</section>
-<section>
-<h2>Robots Starting With 'N'</h2>
-<p>No robots listed under this letter yet.</p>
-</section>
-<section>
-<h2>Robots Starting With 'O'</h2>
-<p>No robots listed under this letter yet.</p>
-</section>
-<section>
-<h2>Robots Starting With 'P'</h2>
-<p>No robots listed under this letter yet.</p>
-</section>
-<section>
-<h2>Robots Starting With 'Q'</h2>
-<p>No robots listed under this letter yet.</p>
-</section>
-<section>
-<h2>Robots Starting With 'R'</h2>
-<p>No robots listed under this letter yet.</p>
-</section>
-<section>
-<h2>Robots Starting With 'S'</h2>
-<p>No robots listed under this letter yet.</p>
-</section>
-<section>
-<h2>Robots Starting With 'T'</h2>
-<p>No robots listed under this letter yet.</p>
-</section>
-<section>
-<h2>Robots Starting With 'U'</h2>
-<p>No robots listed under this letter yet.</p>
-</section>
-<section>
-<h2>Robots Starting With 'V'</h2>
-<p>No robots listed under this letter yet.</p>
-</section>
-<section>
-<h2>Robots Starting With 'W'</h2>
-<p>No robots listed under this letter yet.</p>
-</section>
-<section>
-<h2>Robots Starting With 'X'</h2>
-<p>No robots listed under this letter yet.</p>
-</section>
-<section>
-<h2>Robots Starting With 'Y'</h2>
-<p>No robots listed under this letter yet.</p>
-</section>
-<section>
-<h2>Robots Starting With 'Z'</h2>
-<p>No robots listed under this letter yet.</p>
-</section>
+<div class="letter-nav"><a href="#letter-A">A</a><a href="#letter-B">B</a><a href="#letter-C">C</a><a href="#letter-D">D</a><a href="#letter-E">E</a><a href="#letter-F">F</a><a href="#letter-G">G</a><a href="#letter-H">H</a><a href="#letter-I">I</a><a href="#letter-J">J</a><a href="#letter-K">K</a><a href="#letter-L">L</a><a href="#letter-M">M</a><a href="#letter-N">N</a><a href="#letter-O">O</a><a href="#letter-P">P</a><a href="#letter-Q">Q</a><a href="#letter-R">R</a><a href="#letter-S">S</a><a href="#letter-T">T</a><a href="#letter-U">U</a><a href="#letter-V">V</a><a href="#letter-W">W</a><a href="#letter-X">X</a><a href="#letter-Y">Y</a><a href="#letter-Z">Z</a></div><div id="robots"></div>
+<script>
+  const lang = "pl";
+  const letter = null;
+  const pageType = "explorer";
 
+  function switchLanguage(sel) {
+    const selectedLang = sel.value;
+    if (pageType === "explorer") {
+      window.location.href = selectedLang === "en" ? "/explorer.html" : `/${selectedLang}/explorer.html`;
+    } else {
+      window.location.href = selectedLang === "en" ? `/${letter}/index.html` : `/${selectedLang}/${letter}/index.html`;
+    }
+  }
+
+  fetch("/robots.json")
+    .then(res => res.json())
+    .then(data => {
+      const container = document.getElementById('robots');
+      const robots = data.filter(r => {
+        return (letter ? r.robotName.toLowerCase().startsWith(letter) : true);
+      });
+
+      if (pageType === "explorer") {
+        const grouped = {};
+        robots.forEach(r => {
+          if (r.urls[lang]) {
+            const l = r.robotName[0].toUpperCase();
+            if (!grouped[l]) grouped[l] = [];
+            grouped[l].push(r);
+          }
+        });
+        Object.keys(grouped).sort().forEach(l => {
+          const section = document.createElement("section");
+          section.innerHTML = `<h2 id="letter-${l}">${l}</h2>`;
+          grouped[l].forEach(r => {
+            const div = document.createElement("div");
+            div.className = "robot-entry";
+            div.innerHTML = `<h3>${r.robotName}</h3><a href="${r.urls[lang]}">${r.urls[lang]}</a>`;
+            section.appendChild(div);
+          });
+          container.appendChild(section);
+        });
+      } else {
+        robots.forEach(r => {
+          if (r.urls[lang]) {
+            const div = document.createElement("div");
+            div.className = "robot-entry";
+            div.innerHTML = `<h3>${r.robotName}</h3><a href="${r.urls[lang]}">${r.urls[lang]}</a>`;
+            container.appendChild(div);
+          }
+        });
+      }
+    });
+</script>
 </body>
 </html>
