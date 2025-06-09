@@ -1,0 +1,29 @@
+[
+  {
+    "robotName": "Apex Trader",
+    "slug": "apex-trader",
+    "urls": {
+      "en": "https://botfounders.com/apex-trader",
+      "de": "https://botfounders.com/de/apex-trader",
+      "es": "https://botfounders.com/es/apex-trader"
+    }
+  },
+  {
+    "robotName": "Bitcoin Era",
+    "slug": "bitcoin-era",
+    "urls": {
+      "en": "https://botfounders.com/bitcoin-era",
+      "de": "https://botfounders.com/de/bitcoin-era",
+      "es": "https://botfounders.com/es/bitcoin-era"
+    }
+  },
+  {
+    "robotName": "ZetaBot",
+    "slug": "zetabot",
+    "urls": {
+      "en": "https://botfounders.com/zetabot",
+      "de": "https://botfounders.com/de/zetabot",
+      "es": "https://botfounders.com/es/zetabot"
+    }
+  }
+]
