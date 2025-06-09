@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Trading Robots by Letter</title>
+  
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background: #ffffff;
+    color: #222;
+    margin: 40px;
+    max-width: 960px;
+  }
+  h1 {
+    color: #007acc;
+    font-size: 32px;
+  }
+  h2 {
+    margin-top: 40px;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 5px;
+  }
+  h3 {
+    margin: 8px 0;
+    font-size: 20px;
+  }
+  p {
+    margin: 6px 0 12px 0;
+  }
+  a {
+    color: #007acc;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 0;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  select {
+    margin-left: 10px;
+    padding: 6px 10px;
+    font-size: 14px;
+  }
+  .lang-switch {
+    margin: 20px 0 30px;
+    font-size: 16px;
+  }
+</style>
+
+</head>
+<body>
+  <h1>Trading Robots by First Letter</h1>
+  <div class="lang-switch">
+    <label for="langSwitcher"><strong>Switch language:</strong></label>
+    <select id="langSwitcher" onchange="switchLanguage(this)">
+      <option value="en">EN</option>
+<option value="de">DE</option>
+<option value="es">ES</option>
+<option value="fr">FR</option>
+<option value="it">IT</option>
+<option value="nl">NL</option>
+<option value="pl">PL</option>
+<option value="pt">PT</option>
+    </select>
+  </div>
+  <div id="robots"></div>
+  <script>
+    const lang = "en";
+    const letter = window.location.pathname.match(/\/([a-z])\//i)?.[1].toUpperCase();
+    const robotsContainer = document.getElementById('robots');
+    
+function switchLanguage(sel) {
+  const selectedLang = sel.value;
+  const path = selectedLang === "en" ? "/robots/explorer.html" : `/robots/${selectedLang}/explorer.html`;
+  window.location.href = path;
+}
+
+
+    function renderFallback(letter) {
+      const section = document.createElement("section");
+      section.innerHTML = `<h2>Trading Robots Starting With '${letter}'</h2><p>No robots listed under this letter yet.</p>`;
+      robotsContainer.appendChild(section);
+    }
+
+    function renderLetterSection(letter, entries) {
+      const section = document.createElement("section");
+      section.innerHTML = `<h2>Trading Robots Starting With '${letter}'</h2>`;
+      if (entries.length === 0) {
+        section.innerHTML += "<p>No robots listed under this letter yet.</p>";
+      } else {
+        entries.forEach(r => {
+          const p = document.createElement("p");
+          p.innerHTML = `<a href="${r.urls[lang]}">${r.robotName}</a>`;
+          section.appendChild(p);
+        });
+      }
+      robotsContainer.appendChild(section);
+    }
+
+    fetch("/robots/robots.json")
+      .then(res => {
+        if (!res.ok) throw new Error("robots.json not found");
+        return res.json();
+      })
+      .then(data => {
+        const entries = data.filter(r => r.robotName[0].toUpperCase() === letter && r.urls[lang]);
+        renderLetterSection(letter, entries);
+      })
+      .catch(() => {
+        renderFallback(letter);
+      });
+  </script>
+</body>
+</html>
