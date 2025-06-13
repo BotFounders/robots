@@ -1,5 +1,1472 @@
 [
   {
-    "fileContent": "[\n  {\n    \"robotName\": \"AlgoNova FX\",\n    \"slug\": \"algonova-fx\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/algonova-fx\",\n      \"de\": \"https://botfounders.com/de/bots/algonova-fx\",\n      \"es\": \"https://botfounders.com/es/bots/algonova-fx\",\n      \"fr\": \"https://botfounders.com/fr/bots/algonova-fx\",\n      \"it\": \"https://botfounders.com/it/bots/algonova-fx\",\n      \"pl\": \"https://botfounders.com/pl/bots/algonova-fx\",\n      \"pt\": \"https://botfounders.com/pt/bots/algonova-fx\",\n      \"nl\": \"https://botfounders.com/nl/bots/algonova-fx\"\n    }\n  },\n  {\n    \"robotName\": \"Apex Zotum\",\n    \"slug\": \"apex-zotum\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/apex-zotum\",\n      \"de\": \"https://botfounders.com/de/bots/apex-zotum\",\n      \"es\": \"https://botfounders.com/es/bots/apex-zotum\",\n      \"fr\": \"https://botfounders.com/fr/bots/apex-zotum\",\n      \"it\": \"https://botfounders.com/it/bots/apex-zotum\",\n      \"pl\": \"https://botfounders.com/pl/bots/apex-zotum\",\n      \"pt\": \"https://botfounders.com/pt/bots/apex-zotum\",\n      \"nl\": \"https://botfounders.com/nl/bots/apex-zotum\"\n    }\n  },\n  {\n    \"robotName\": \"Beravetax\",\n    \"slug\": \"beravetax\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/beravetax\",\n      \"de\": \"https://botfounders.com/de/bots/beravetax\",\n      \"es\": \"https://botfounders.com/es/bots/beravetax\",\n      \"fr\": \"https://botfounders.com/fr/bots/beravetax\",\n      \"it\": \"https://botfounders.com/it/bots/beravetax\",\n      \"pl\": \"https://botfounders.com/pl/bots/beravetax\",\n      \"pt\": \"https://botfounders.com/pt/bots/beravetax\",\n      \"nl\": \"https://botfounders.com/nl/bots/beravetax\"\n    }\n  },\n  {\n    \"robotName\": \"Bevon Stride GPT\",\n    \"slug\": \"bevon-stride-gpt\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/bevon-stride-gpt\",\n      \"de\": \"https://botfounders.com/de/bots/bevon-stride-gpt\",\n      \"es\": \"https://botfounders.com/es/bots/bevon-stride-gpt\",\n      \"fr\": \"https://botfounders.com/fr/bots/bevon-stride-gpt\",\n      \"it\": \"https://botfounders.com/it/bots/bevon-stride-gpt\",\n      \"pl\": \"https://botfounders.com/pl/bots/bevon-stride-gpt\",\n      \"pt\": \"https://botfounders.com/pt/bots/bevon-stride-gpt\",\n      \"nl\": \"https://botfounders.com/nl/bots/bevon-stride-gpt\"\n    }\n  },\n  {\n    \"robotName\": \"Bigcrypt Edge\",\n    \"slug\": \"bigcrypt-edge\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/bigcrypt-edge\",\n      \"de\": \"https://botfounders.com/de/bots/bigcrypt-edge\",\n      \"es\": \"https://botfounders.com/es/bots/bigcrypt-edge\",\n      \"fr\": \"https://botfounders.com/fr/bots/bigcrypt-edge\",\n      \"it\": \"https://botfounders.com/it/bots/bigcrypt-edge\",\n      \"pl\": \"https://botfounders.com/pl/bots/bigcrypt-edge\",\n      \"pt\": \"https://botfounders.com/pt/bots/bigcrypt-edge\",\n      \"nl\": \"https://botfounders.com/nl/bots/bigcrypt-edge\"\n    }\n  },\n  {\n    \"robotName\": \"Bitcoin Champion\",\n    \"slug\": \"bitcoin-champion\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/bitcoin-champion\",\n      \"de\": \"https://botfounders.com/de/bots/bitcoin-champion\",\n      \"es\": \"https://botfounders.com/es/bots/bitcoin-champion\",\n      \"fr\": \"https://botfounders.com/fr/bots/bitcoin-champion\",\n      \"it\": \"https://botfounders.com/it/bots/bitcoin-champion\",\n      \"pl\": \"https://botfounders.com/pl/bots/bitcoin-champion\",\n      \"pt\": \"https://botfounders.com/pt/bots/bitcoin-champion\",\n      \"nl\": \"https://botfounders.com/nl/bots/bitcoin-champion\"\n    }\n  },\n  {\n    \"robotName\": \"Bitcoin Everest AI\",\n    \"slug\": \"bitcoin-everest-ai\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/bitcoin-everest-ai\",\n      \"de\": \"https://botfounders.com/de/bots/bitcoin-everest-ai\",\n      \"es\": \"https://botfounders.com/es/bots/bitcoin-everest-ai\",\n      \"fr\": \"https://botfounders.com/fr/bots/bitcoin-everest-ai\",\n      \"it\": \"https://botfounders.com/it/bots/bitcoin-everest-ai\",\n      \"pl\": \"https://botfounders.com/pl/bots/bitcoin-everest-ai\",\n      \"pt\": \"https://botfounders.com/pt/bots/bitcoin-everest-ai\",\n      \"nl\": \"https://botfounders.com/nl/bots/bitcoin-everest-ai\"\n    }\n  },\n  {\n    \"robotName\": \"Bitcoineer\",\n    \"slug\": \"bitcoineer\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/bitcoineer\",\n      \"de\": \"https://botfounders.com/de/bots/bitcoineer\",\n      \"es\": \"https://botfounders.com/es/bots/bitcoineer\",\n      \"fr\": \"https://botfounders.com/fr/bots/bitcoineer\",\n      \"it\": \"https://botfounders.com/it/bots/bitcoineer\",\n      \"pl\": \"https://botfounders.com/pl/bots/bitcoineer\",\n      \"pt\": \"https://botfounders.com/pt/bots/bitcoineer\",\n      \"nl\": \"https://botfounders.com/nl/bots/bitcoineer\"\n    }\n  },\n  {\n    \"robotName\": \"Bitcore 360\",\n    \"slug\": \"bitcore-360\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/bitcore-360\",\n      \"de\": \"https://botfounders.com/de/bots/bitcore-360\",\n      \"es\": \"https://botfounders.com/es/bots/bitcore-360\",\n      \"fr\": \"https://botfounders.com/fr/bots/bitcore-360\",\n      \"it\": \"https://botfounders.com/it/bots/bitcore-360\",\n      \"pl\": \"https://botfounders.com/pl/bots/bitcore-360\",\n      \"pt\": \"https://botfounders.com/pt/bots/bitcore-360\",\n      \"nl\": \"https://botfounders.com/nl/bots/bitcore-360\"\n    }\n  },\n  {\n    \"robotName\": \"Bitprime Gold\",\n    \"slug\": \"bitprime-gold\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/bitprime-gold\",\n      \"de\": \"https://botfounders.com/de/bots/bitprime-gold\",\n      \"es\": \"https://botfounders.com/es/bots/bitprime-gold\",\n      \"fr\": \"https://botfounders.com/fr/bots/bitprime-gold\",\n      \"it\": \"https://botfounders.com/it/bots/bitprime-gold\",\n      \"pl\": \"https://botfounders.com/pl/bots/bitprime-gold\",\n      \"pt\": \"https://botfounders.com/pt/bots/bitprime-gold\",\n      \"nl\": \"https://botfounders.com/nl/bots/bitprime-gold\"\n    }\n  },\n  {\n    \"robotName\": \"Cashaxor\",\n    \"slug\": \"cashaxor\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/cashaxor\",\n      \"de\": \"https://botfounders.com/de/bots/cashaxor\",\n      \"es\": \"https://botfounders.com/es/bots/cashaxor\",\n      \"fr\": \"https://botfounders.com/fr/bots/cashaxor\",\n      \"it\": \"https://botfounders.com/it/bots/cashaxor\",\n      \"pl\": \"https://botfounders.com/pl/bots/cashaxor\",\n      \"pt\": \"https://botfounders.com/pt/bots/cashaxor\",\n      \"nl\": \"https://botfounders.com/nl/bots/cashaxor\"\n    }\n  },\n  {\n    \"robotName\": \"Cyphix Immediate\",\n    \"slug\": \"cyphix-immediate\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/cyphix-immediate\",\n      \"de\": \"https://botfounders.com/de/bots/cyphix-immediate\",\n      \"es\": \"https://botfounders.com/es/bots/cyphix-immediate\",\n      \"fr\": \"https://botfounders.com/fr/bots/cyphix-immediate\",\n      \"it\": \"https://botfounders.com/it/bots/cyphix-immediate\",\n      \"pl\": \"https://botfounders.com/pl/bots/cyphix-immediate\",\n      \"pt\": \"https://botfounders.com/pt/bots/cyphix-immediate\",\n      \"nl\": \"https://botfounders.com/nl/bots/cyphix-immediate\"\n    }\n  },\n  {\n    \"robotName\": \"ETH Cormax\",\n    \"slug\": \"eth-cormax\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/eth-cormax\",\n      \"de\": \"https://botfounders.com/de/bots/eth-cormax\",\n      \"es\": \"https://botfounders.com/es/bots/eth-cormax\",\n      \"fr\": \"https://botfounders.com/fr/bots/eth-cormax\",\n      \"it\": \"https://botfounders.com/it/bots/eth-cormax\",\n      \"pl\": \"https://botfounders.com/pl/bots/eth-cormax\",\n      \"pt\": \"https://botfounders.com/pt/bots/eth-cormax\",\n      \"nl\": \"https://botfounders.com/nl/bots/eth-cormax\"\n    }\n  },\n  {\n    \"robotName\": \"Ethereum 200x Cormax\",\n    \"slug\": \"ethereum-200x-cormax\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/ethereum-200x-cormax\",\n      \"de\": \"https://botfounders.com/de/bots/ethereum-200x-cormax\",\n      \"es\": \"https://botfounders.com/es/bots/ethereum-200x-cormax\",\n      \"fr\": \"https://botfounders.com/fr/bots/ethereum-200x-cormax\",\n      \"it\": \"https://botfounders.com/it/bots/ethereum-200x-cormax\",\n      \"pl\": \"https://botfounders.com/pl/bots/ethereum-200x-cormax\",\n      \"pt\": \"https://botfounders.com/pt/bots/ethereum-200x-cormax\",\n      \"nl\": \"https://botfounders.com/nl/bots/ethereum-200x-cormax\"\n    }\n  },\n  {\n    \"robotName\": \"Etherlux Bitcore\",\n    \"slug\": \"etherlux-bitcore\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/etherlux-bitcore\",\n      \"de\": \"https://botfounders.com/de/bots/etherlux-bitcore\",\n      \"es\": \"https://botfounders.com/es/bots/etherlux-bitcore\",\n      \"fr\": \"https://botfounders.com/fr/bots/etherlux-bitcore\",\n      \"it\": \"https://botfounders.com/it/bots/etherlux-bitcore\",\n      \"pl\": \"https://botfounders.com/pl/bots/etherlux-bitcore\",\n      \"pt\": \"https://botfounders.com/pt/bots/etherlux-bitcore\",\n      \"nl\": \"https://botfounders.com/nl/bots/etherlux-bitcore\"\n    }\n  },\n  {\n    \"robotName\": \"Everix Peak\",\n    \"slug\": \"everix-peak\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/everix-peak\",\n      \"de\": \"https://botfounders.com/de/bots/everix-peak\",\n      \"es\": \"https://botfounders.com/es/bots/everix-peak\",\n      \"fr\": \"https://botfounders.com/fr/bots/everix-peak\",\n      \"it\": \"https://botfounders.com/it/bots/everix-peak\",\n      \"pl\": \"https://botfounders.com/pl/bots/everix-peak\",\n      \"pt\": \"https://botfounders.com/pt/bots/everix-peak\",\n      \"nl\": \"https://botfounders.com/nl/bots/everix-peak\"\n    }\n  },\n  {\n    \"robotName\": \"Evolux Capital\",\n    \"slug\": \"evolux-capital\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/evolux-capital\",\n      \"de\": \"https://botfounders.com/de/bots/evolux-capital\",\n      \"es\": \"https://botfounders.com/es/bots/evolux-capital\",\n      \"fr\": \"https://botfounders.com/fr/bots/evolux-capital\",\n      \"it\": \"https://botfounders.com/it/bots/evolux-capital\",\n      \"pl\": \"https://botfounders.com/pl/bots/evolux-capital\",\n      \"pt\": \"https://botfounders.com/pt/bots/evolux-capital\",\n      \"nl\": \"https://botfounders.com/nl/bots/evolux-capital\"\n    }\n  },\n  {\n    \"robotName\": \"Exponadex App\",\n    \"slug\": \"exponadex-app\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/exponadex-app\",\n      \"de\": \"https://botfounders.com/de/bots/exponadex-app\",\n      \"es\": \"https://botfounders.com/es/bots/exponadex-app\",\n      \"fr\": \"https://botfounders.com/fr/bots/exponadex-app\",\n      \"it\": \"https://botfounders.com/it/bots/exponadex-app\",\n      \"pl\": \"https://botfounders.com/pl/bots/exponadex-app\",\n      \"pt\": \"https://botfounders.com/pt/bots/exponadex-app\",\n      \"nl\": \"https://botfounders.com/nl/bots/exponadex-app\"\n    }\n  },\n  {\n    \"robotName\": \"Fantom Sombrix\",\n    \"slug\": \"fantom-sombrix\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/fantom-sombrix\",\n      \"de\": \"https://botfounders.com/de/bots/fantom-sombrix\",\n      \"es\": \"https://botfounders.com/es/bots/fantom-sombrix\",\n      \"fr\": \"https://botfounders.com/fr/bots/fantom-sombrix\",\n      \"it\": \"https://botfounders.com/it/bots/fantom-sombrix\",\n      \"pl\": \"https://botfounders.com/pl/bots/fantom-sombrix\",\n      \"pt\": \"https://botfounders.com/pt/bots/fantom-sombrix\",\n      \"nl\": \"https://botfounders.com/nl/bots/fantom-sombrix\"\n    }\n  },\n  {\n    \"robotName\": \"Fawnor Kezil\",\n    \"slug\": \"fawnor-kezil\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/fawnor-kezil\",\n      \"de\": \"https://botfounders.com/de/bots/fawnor-kezil\",\n      \"es\": \"https://botfounders.com/es/bots/fawnor-kezil\",\n      \"fr\": \"https://botfounders.com/fr/bots/fawnor-kezil\",\n      \"it\": \"https://botfounders.com/it/bots/fawnor-kezil\",\n      \"pl\": \"https://botfounders.com/pl/bots/fawnor-kezil\",\n      \"pt\": \"https://botfounders.com/pt/bots/fawnor-kezil\",\n      \"nl\": \"https://botfounders.com/nl/bots/fawnor-kezil\"\n    }\n  },\n  {\n    \"robotName\": \"Feldzaxor\",\n    \"slug\": \"feldzaxor\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/feldzaxor\",\n      \"de\": \"https://botfounders.com/de/bots/feldzaxor\",\n      \"es\": \"https://botfounders.com/es/bots/feldzaxor\",\n      \"fr\": \"https://botfounders.com/fr/bots/feldzaxor\",\n      \"it\": \"https://botfounders.com/it/bots/feldzaxor\",\n      \"pl\": \"https://botfounders.com/pl/bots/feldzaxor\",\n      \"pt\": \"https://botfounders.com/pt/bots/feldzaxor\",\n      \"nl\": \"https://botfounders.com/nl/bots/feldzaxor\"\n    }\n  },\n  {\n    \"robotName\": \"Feldzorb\",\n    \"slug\": \"feldzorb\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/feldzorb\",\n      \"de\": \"https://botfounders.com/de/bots/feldzorb\",\n      \"es\": \"https://botfounders.com/es/bots/feldzorb\",\n      \"fr\": \"https://botfounders.com/fr/bots/feldzorb\",\n      \"it\": \"https://botfounders.com/it/bots/feldzorb\",\n      \"pl\": \"https://botfounders.com/pl/bots/feldzorb\",\n      \"pt\": \"https://botfounders.com/pt/bots/feldzorb\",\n      \"nl\": \"https://botfounders.com/nl/bots/feldzorb\"\n    }\n  },\n  {\n    \"robotName\": \"Finance Legend\",\n    \"slug\": \"finance-legend\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/finance-legend\",\n      \"de\": \"https://botfounders.com/de/bots/finance-legend\",\n      \"es\": \"https://botfounders.com/es/bots/finance-legend\",\n      \"fr\": \"https://botfounders.com/fr/bots/finance-legend\",\n      \"it\": \"https://botfounders.com/it/bots/finance-legend\",\n      \"pl\": \"https://botfounders.com/pl/bots/finance-legend\",\n      \"pt\": \"https://botfounders.com/pt/bots/finance-legend\",\n      \"nl\": \"https://botfounders.com/nl/bots/finance-legend\"\n    }\n  },\n  {\n    \"robotName\": \"Finance Phantom\",\n    \"slug\": \"finance-phantom\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/finance-phantom\",\n      \"de\": \"https://botfounders.com/de/bots/finance-phantom\",\n      \"es\": \"https://botfounders.com/es/bots/finance-phantom\",\n      \"fr\": \"https://botfounders.com/fr/bots/finance-phantom\",\n      \"it\": \"https://botfounders.com/it/bots/finance-phantom\",\n      \"pl\": \"https://botfounders.com/pl/bots/finance-phantom\",\n      \"pt\": \"https://botfounders.com/pt/bots/finance-phantom\",\n      \"nl\": \"https://botfounders.com/nl/bots/finance-phantom\"\n    }\n  },\n  {\n    \"robotName\": \"Finorexus\",\n    \"slug\": \"finorexus\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/finorexus\",\n      \"de\": \"https://botfounders.com/de/bots/finorexus\",\n      \"es\": \"https://botfounders.com/es/bots/finorexus\",\n      \"fr\": \"https://botfounders.com/fr/bots/finorexus\",\n      \"it\": \"https://botfounders.com/it/bots/finorexus\",\n      \"pl\": \"https://botfounders.com/pl/bots/finorexus\",\n      \"pt\": \"https://botfounders.com/pt/bots/finorexus\",\n      \"nl\": \"https://botfounders.com/nl/bots/finorexus\"\n    }\n  },\n  {\n    \"robotName\": \"Geldrix Surge App\",\n    \"slug\": \"geldrix-surge-app\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/geldrix-surge-app\",\n      \"de\": \"https://botfounders.com/de/bots/geldrix-surge-app\",\n      \"es\": \"https://botfounders.com/es/bots/geldrix-surge-app\",\n      \"fr\": \"https://botfounders.com/fr/bots/geldrix-surge-app\",\n      \"it\": \"https://botfounders.com/it/bots/geldrix-surge-app\",\n      \"pl\": \"https://botfounders.com/pl/bots/geldrix-surge-app\",\n      \"pt\": \"https://botfounders.com/pt/bots/geldrix-surge-app\",\n      \"nl\": \"https://botfounders.com/nl/bots/geldrix-surge-app\"\n    }\n  },\n  {\n    \"robotName\": \"GeldwetiX\",\n    \"slug\": \"geldwetix\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/geldwetix\",\n      \"de\": \"https://botfounders.com/de/bots/geldwetix\",\n      \"es\": \"https://botfounders.com/es/bots/geldwetix\",\n      \"fr\": \"https://botfounders.com/fr/bots/geldwetix\",\n      \"it\": \"https://botfounders.com/it/bots/geldwetix\",\n      \"pl\": \"https://botfounders.com/pl/bots/geldwetix\",\n      \"pt\": \"https://botfounders.com/pt/bots/geldwetix\",\n      \"nl\": \"https://botfounders.com/nl/bots/geldwetix\"\n    }\n  },\n  {\n    \"robotName\": \"Geldzorex\",\n    \"slug\": \"geldzorex\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/geldzorex\",\n      \"de\": \"https://botfounders.com/de/bots/geldzorex\",\n      \"es\": \"https://botfounders.com/es/bots/geldzorex\",\n      \"fr\": \"https://botfounders.com/fr/bots/geldzorex\",\n      \"it\": \"https://botfounders.com/it/bots/geldzorex\",\n      \"pl\": \"https://botfounders.com/pl/bots/geldzorex\",\n      \"pt\": \"https://botfounders.com/pt/bots/geldzorex\",\n      \"nl\": \"https://botfounders.com/nl/bots/geldzorex\"\n    }\n  },\n  {\n    \"robotName\": \"Immediate Atom\",\n    \"slug\": \"immediate-atom\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/immediate-atom\",\n      \"de\": \"https://botfounders.com/de/bots/immediate-atom\",\n      \"es\": \"https://botfounders.com/es/bots/immediate-atom\",\n      \"fr\": \"https://botfounders.com/fr/bots/immediate-atom\",\n      \"it\": \"https://botfounders.com/it/bots/immediate-atom\",\n      \"pl\": \"https://botfounders.com/pl/bots/immediate-atom\",\n      \"pt\": \"https://botfounders.com/pt/bots/immediate-atom\",\n      \"nl\": \"https://botfounders.com/nl/bots/immediate-atom\"\n    }\n  },\n  {\n    \"robotName\": \"Immediate Intal\",\n    \"slug\": \"immediate-intal\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/immediate-intal\",\n      \"de\": \"https://botfounders.com/de/bots/immediate-intal\",\n      \"es\": \"https://botfounders.com/es/bots/immediate-intal\",\n      \"fr\": \"https://botfounders.com/fr/bots/immediate-intal\",\n      \"it\": \"https://botfounders.com/it/bots/immediate-intal\",\n      \"pl\": \"https://botfounders.com/pl/bots/immediate-intal\",\n      \"pt\": \"https://botfounders.com/pt/bots/immediate-intal\",\n      \"nl\": \"https://botfounders.com/nl/bots/immediate-intal\"\n    }\n  },\n  {\n    \"robotName\": \"Immediate Sharpix\",\n    \"slug\": \"immediate-sharpix\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/immediate-sharpix\",\n      \"de\": \"https://botfounders.com/de/bots/immediate-sharpix\",\n      \"es\": \"https://botfounders.com/es/bots/immediate-sharpix\",\n      \"fr\": \"https://botfounders.com/fr/bots/immediate-sharpix\",\n      \"it\": \"https://botfounders.com/it/bots/immediate-sharpix\",\n      \"pl\": \"https://botfounders.com/pl/bots/immediate-sharpix\",\n      \"pt\": \"https://botfounders.com/pt/bots/immediate-sharpix\",\n      \"nl\": \"https://botfounders.com/nl/bots/immediate-sharpix\"\n    }\n  },\n  {\n    \"robotName\": \"Immediate Sphere 2.0\",\n    \"slug\": \"immediate-sphere-2.0\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/immediate-sphere-2.0\",\n      \"de\": \"https://botfounders.com/de/bots/immediate-sphere-2.0\",\n      \"es\": \"https://botfounders.com/es/bots/immediate-sphere-2.0\",\n      \"fr\": \"https://botfounders.com/fr/bots/immediate-sphere-2.0\",\n      \"it\": \"https://botfounders.com/it/bots/immediate-sphere-2.0\",\n      \"pl\": \"https://botfounders.com/pl/bots/immediate-sphere-2.0\",\n      \"pt\": \"https://botfounders.com/pt/bots/immediate-sphere-2.0\",\n      \"nl\": \"https://botfounders.com/nl/bots/immediate-sphere-2.0\"\n    }\n  },\n  {\n    \"robotName\": \"Immediate Tradent\",\n    \"slug\": \"immediate-tradent\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/immediate-tradent\",\n      \"de\": \"https://botfounders.com/de/bots/immediate-tradent\",\n      \"es\": \"https://botfounders.com/es/bots/immediate-tradent\",\n      \"fr\": \"https://botfounders.com/fr/bots/immediate-tradent\",\n      \"it\": \"https://botfounders.com/it/bots/immediate-tradent\",\n      \"pl\": \"https://botfounders.com/pl/bots/immediate-tradent\",\n      \"pt\": \"https://botfounders.com/pt/bots/immediate-tradent\",\n      \"nl\": \"https://botfounders.com/nl/bots/immediate-tradent\"\n    }\n  },\n  {\n    \"robotName\": \"Immutable Afinitor\",\n    \"slug\": \"immutable-afinitor\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/immutable-afinitor\",\n      \"de\": \"https://botfounders.com/de/bots/immutable-afinitor\",\n      \"es\": \"https://botfounders.com/es/bots/immutable-afinitor\",\n      \"fr\": \"https://botfounders.com/fr/bots/immutable-afinitor\",\n      \"it\": \"https://botfounders.com/it/bots/immutable-afinitor\",\n      \"pl\": \"https://botfounders.com/pl/bots/immutable-afinitor\",\n      \"pt\": \"https://botfounders.com/pt/bots/immutable-afinitor\",\n      \"nl\": \"https://botfounders.com/nl/bots/immutable-afinitor\"\n    }\n  },\n  {\n    \"robotName\": \"Instant Max AI\",\n    \"slug\": \"instant-max-ai\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/instant-max-ai\",\n      \"de\": \"https://botfounders.com/de/bots/instant-max-ai\",\n      \"es\": \"https://botfounders.com/es/bots/instant-max-ai\",\n      \"fr\": \"https://botfounders.com/fr/bots/instant-max-ai\",\n      \"it\": \"https://botfounders.com/it/bots/instant-max-ai\",\n      \"pl\": \"https://botfounders.com/pl/bots/instant-max-ai\",\n      \"pt\": \"https://botfounders.com/pt/bots/instant-max-ai\",\n      \"nl\": \"https://botfounders.com/nl/bots/instant-max-ai\"\n    }\n  },\n  {\n    \"robotName\": \"Instant X9 Chantix\",\n    \"slug\": \"instant-x9-chantix\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/instant-x9-chantix\",\n      \"de\": \"https://botfounders.com/de/bots/instant-x9-chantix\",\n      \"es\": \"https://botfounders.com/es/bots/instant-x9-chantix\",\n      \"fr\": \"https://botfounders.com/fr/bots/instant-x9-chantix\",\n      \"it\": \"https://botfounders.com/it/bots/instant-x9-chantix\",\n      \"pl\": \"https://botfounders.com/pl/bots/instant-x9-chantix\",\n      \"pt\": \"https://botfounders.com/pt/bots/instant-x9-chantix\",\n      \"nl\": \"https://botfounders.com/nl/bots/instant-x9-chantix\"\n    }\n  },\n  {\n    \"robotName\": \"Inversion Vetra\",\n    \"slug\": \"inversion-vetra\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/inversion-vetra\",\n      \"de\": \"https://botfounders.com/de/bots/inversion-vetra\",\n      \"es\": \"https://botfounders.com/es/bots/inversion-vetra\",\n      \"fr\": \"https://botfounders.com/fr/bots/inversion-vetra\",\n      \"it\": \"https://botfounders.com/it/bots/inversion-vetra\",\n      \"pl\": \"https://botfounders.com/pl/bots/inversion-vetra\",\n      \"pt\": \"https://botfounders.com/pt/bots/inversion-vetra\",\n      \"nl\": \"https://botfounders.com/nl/bots/inversion-vetra\"\n    }\n  },\n  {\n    \"robotName\": \"Jybla Price\",\n    \"slug\": \"jybla-price\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/jybla-price\",\n      \"de\": \"https://botfounders.com/de/bots/jybla-price\",\n      \"es\": \"https://botfounders.com/es/bots/jybla-price\",\n      \"fr\": \"https://botfounders.com/fr/bots/jybla-price\",\n      \"it\": \"https://botfounders.com/it/bots/jybla-price\",\n      \"pl\": \"https://botfounders.com/pl/bots/jybla-price\",\n      \"pt\": \"https://botfounders.com/pt/bots/jybla-price\",\n      \"nl\": \"https://botfounders.com/nl/bots/jybla-price\"\n    }\n  },\n  {\n    \"robotName\": \"Klopirakon\",\n    \"slug\": \"klopirakon\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/klopirakon\",\n      \"de\": \"https://botfounders.com/de/bots/klopirakon\",\n      \"es\": \"https://botfounders.com/es/bots/klopirakon\",\n      \"fr\": \"https://botfounders.com/fr/bots/klopirakon\",\n      \"it\": \"https://botfounders.com/it/bots/klopirakon\",\n      \"pl\": \"https://botfounders.com/pl/bots/klopirakon\",\n      \"pt\": \"https://botfounders.com/pt/bots/klopirakon\",\n      \"nl\": \"https://botfounders.com/nl/bots/klopirakon\"\n    }\n  },\n  {\n    \"robotName\": \"Kryptavix Jordan\",\n    \"slug\": \"kryptavix-jordan\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/kryptavix-jordan\",\n      \"de\": \"https://botfounders.com/de/bots/kryptavix-jordan\",\n      \"es\": \"https://botfounders.com/es/bots/kryptavix-jordan\",\n      \"fr\": \"https://botfounders.com/fr/bots/kryptavix-jordan\",\n      \"it\": \"https://botfounders.com/it/bots/kryptavix-jordan\",\n      \"pl\": \"https://botfounders.com/pl/bots/kryptavix-jordan\",\n      \"pt\": \"https://botfounders.com/pt/bots/kryptavix-jordan\",\n      \"nl\": \"https://botfounders.com/nl/bots/kryptavix-jordan\"\n    }\n  },\n  {\n    \"robotName\": \"Lavande Coinpulse\",\n    \"slug\": \"lavande-coinpulse\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/lavande-coinpulse\",\n      \"de\": \"https://botfounders.com/de/bots/lavande-coinpulse\",\n      \"es\": \"https://botfounders.com/es/bots/lavande-coinpulse\",\n      \"fr\": \"https://botfounders.com/fr/bots/lavande-coinpulse\",\n      \"it\": \"https://botfounders.com/it/bots/lavande-coinpulse\",\n      \"pl\": \"https://botfounders.com/pl/bots/lavande-coinpulse\",\n      \"pt\": \"https://botfounders.com/pt/bots/lavande-coinpulse\",\n      \"nl\": \"https://botfounders.com/nl/bots/lavande-coinpulse\"\n    }\n  },\n  {\n    \"robotName\": \"Luxver Blitz AI\",\n    \"slug\": \"luxver-blitz-ai\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/luxver-blitz-ai\",\n      \"de\": \"https://botfounders.com/de/bots/luxver-blitz-ai\",\n      \"es\": \"https://botfounders.com/es/bots/luxver-blitz-ai\",\n      \"fr\": \"https://botfounders.com/fr/bots/luxver-blitz-ai\",\n      \"it\": \"https://botfounders.com/it/bots/luxver-blitz-ai\",\n      \"pl\": \"https://botfounders.com/pl/bots/luxver-blitz-ai\",\n      \"pt\": \"https://botfounders.com/pt/bots/luxver-blitz-ai\",\n      \"nl\": \"https://botfounders.com/nl/bots/luxver-blitz-ai\"\n    }\n  },\n  {\n    \"robotName\": \"Oblirexget\",\n    \"slug\": \"oblirexget\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/oblirexget\",\n      \"de\": \"https://botfounders.com/de/bots/oblirexget\",\n      \"es\": \"https://botfounders.com/es/bots/oblirexget\",\n      \"fr\": \"https://botfounders.com/fr/bots/oblirexget\",\n      \"it\": \"https://botfounders.com/it/bots/oblirexget\",\n      \"pl\": \"https://botfounders.com/pl/bots/oblirexget\",\n      \"pt\": \"https://botfounders.com/pt/bots/oblirexget\",\n      \"nl\": \"https://botfounders.com/nl/bots/oblirexget\"\n    }\n  },\n  {\n    \"robotName\": \"Portefeuille Vexo\",\n    \"slug\": \"portefeuille-vexo\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/portefeuille-vexo\",\n      \"de\": \"https://botfounders.com/de/bots/portefeuille-vexo\",\n      \"es\": \"https://botfounders.com/es/bots/portefeuille-vexo\",\n      \"fr\": \"https://botfounders.com/fr/bots/portefeuille-vexo\",\n      \"it\": \"https://botfounders.com/it/bots/portefeuille-vexo\",\n      \"pl\": \"https://botfounders.com/pl/bots/portefeuille-vexo\",\n      \"pt\": \"https://botfounders.com/pt/bots/portefeuille-vexo\",\n      \"nl\": \"https://botfounders.com/nl/bots/portefeuille-vexo\"\n    }\n  },\n  {\n    \"robotName\": \"Prime Coinflow\",\n    \"slug\": \"prime-coinflow\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/prime-coinflow\",\n      \"de\": \"https://botfounders.com/de/bots/prime-coinflow\",\n      \"es\": \"https://botfounders.com/es/bots/prime-coinflow\",\n      \"fr\": \"https://botfounders.com/fr/bots/prime-coinflow\",\n      \"it\": \"https://botfounders.com/it/bots/prime-coinflow\",\n      \"pl\": \"https://botfounders.com/pl/bots/prime-coinflow\",\n      \"pt\": \"https://botfounders.com/pt/bots/prime-coinflow\",\n      \"nl\": \"https://botfounders.com/nl/bots/prime-coinflow\"\n    }\n  },\n  {\n    \"robotName\": \"ProfitKernAI\",\n    \"slug\": \"profitkernai\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/profitkernai\",\n      \"de\": \"https://botfounders.com/de/bots/profitkernai\",\n      \"es\": \"https://botfounders.com/es/bots/profitkernai\",\n      \"fr\": \"https://botfounders.com/fr/bots/profitkernai\",\n      \"it\": \"https://botfounders.com/it/bots/profitkernai\",\n      \"pl\": \"https://botfounders.com/pl/bots/profitkernai\",\n      \"pt\": \"https://botfounders.com/pt/bots/profitkernai\",\n      \"nl\": \"https://botfounders.com/nl/bots/profitkernai\"\n    }\n  },\n  {\n    \"robotName\": \"Puls Bitcoin\",\n    \"slug\": \"puls-bitcoin\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/puls-bitcoin\",\n      \"de\": \"https://botfounders.com/de/bots/puls-bitcoin\",\n      \"es\": \"https://botfounders.com/es/bots/puls-bitcoin\",\n      \"fr\": \"https://botfounders.com/fr/bots/puls-bitcoin\",\n      \"it\": \"https://botfounders.com/it/bots/puls-bitcoin\",\n      \"pl\": \"https://botfounders.com/pl/bots/puls-bitcoin\",\n      \"pt\": \"https://botfounders.com/pt/bots/puls-bitcoin\",\n      \"nl\": \"https://botfounders.com/nl/bots/puls-bitcoin\"\n    }\n  },\n  {\n    \"robotName\": \"QuantumX\",\n    \"slug\": \"quantumx\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/quantumx\",\n      \"de\": \"https://botfounders.com/de/bots/quantumx\",\n      \"es\": \"https://botfounders.com/es/bots/quantumx\",\n      \"fr\": \"https://botfounders.com/fr/bots/quantumx\",\n      \"it\": \"https://botfounders.com/it/bots/quantumx\",\n      \"pl\": \"https://botfounders.com/pl/bots/quantumx\",\n      \"pt\": \"https://botfounders.com/pt/bots/quantumx\",\n      \"nl\": \"https://botfounders.com/nl/bots/quantumx\"\n    }\n  },\n  {\n    \"robotName\": \"QubiQuant Vision\",\n    \"slug\": \"qubiquant-vision\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/qubiquant-vision\",\n      \"de\": \"https://botfounders.com/de/bots/qubiquant-vision\",\n      \"es\": \"https://botfounders.com/es/bots/qubiquant-vision\",\n      \"fr\": \"https://botfounders.com/fr/bots/qubiquant-vision\",\n      \"it\": \"https://botfounders.com/it/bots/qubiquant-vision\",\n      \"pl\": \"https://botfounders.com/pl/bots/qubiquant-vision\",\n      \"pt\": \"https://botfounders.com/pt/bots/qubiquant-vision\",\n      \"nl\": \"https://botfounders.com/nl/bots/qubiquant-vision\"\n    }\n  },\n  {\n    \"robotName\": \"RedCoreCanada\",\n    \"slug\": \"redcorecanada\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/redcorecanada\",\n      \"de\": \"https://botfounders.com/de/bots/redcorecanada\",\n      \"es\": \"https://botfounders.com/es/bots/redcorecanada\",\n      \"fr\": \"https://botfounders.com/fr/bots/redcorecanada\",\n      \"it\": \"https://botfounders.com/it/bots/redcorecanada\",\n      \"pl\": \"https://botfounders.com/pl/bots/redcorecanada\",\n      \"pt\": \"https://botfounders.com/pt/bots/redcorecanada\",\n      \"nl\": \"https://botfounders.com/nl/bots/redcorecanada\"\n    }\n  },\n  {\n    \"robotName\": \"Reichzorb\",\n    \"slug\": \"reichzorb\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/reichzorb\",\n      \"de\": \"https://botfounders.com/de/bots/reichzorb\",\n      \"es\": \"https://botfounders.com/es/bots/reichzorb\",\n      \"fr\": \"https://botfounders.com/fr/bots/reichzorb\",\n      \"it\": \"https://botfounders.com/it/bots/reichzorb\",\n      \"pl\": \"https://botfounders.com/pl/bots/reichzorb\",\n      \"pt\": \"https://botfounders.com/pt/bots/reichzorb\",\n      \"nl\": \"https://botfounders.com/nl/bots/reichzorb\"\n    }\n  },\n  {\n    \"robotName\": \"Satoshi Myrion\",\n    \"slug\": \"satoshi-myrion\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/satoshi-myrion\",\n      \"de\": \"https://botfounders.com/de/bots/satoshi-myrion\",\n      \"es\": \"https://botfounders.com/es/bots/satoshi-myrion\",\n      \"fr\": \"https://botfounders.com/fr/bots/satoshi-myrion\",\n      \"it\": \"https://botfounders.com/it/bots/satoshi-myrion\",\n      \"pl\": \"https://botfounders.com/pl/bots/satoshi-myrion\",\n      \"pt\": \"https://botfounders.com/pt/bots/satoshi-myrion\",\n      \"nl\": \"https://botfounders.com/nl/bots/satoshi-myrion\"\n    }\n  },\n  {\n    \"robotName\": \"Solstice Riskler\",\n    \"slug\": \"solstice-riskler\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/solstice-riskler\",\n      \"de\": \"https://botfounders.com/de/bots/solstice-riskler\",\n      \"es\": \"https://botfounders.com/es/bots/solstice-riskler\",\n      \"fr\": \"https://botfounders.com/fr/bots/solstice-riskler\",\n      \"it\": \"https://botfounders.com/it/bots/solstice-riskler\",\n      \"pl\": \"https://botfounders.com/pl/bots/solstice-riskler\",\n      \"pt\": \"https://botfounders.com/pt/bots/solstice-riskler\",\n      \"nl\": \"https://botfounders.com/nl/bots/solstice-riskler\"\n    }\n  },\n  {\n    \"robotName\": \"Spot 11x Sanorex\",\n    \"slug\": \"spot-11x-sanorex\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/spot-11x-sanorex\",\n      \"de\": \"https://botfounders.com/de/bots/spot-11x-sanorex\",\n      \"es\": \"https://botfounders.com/es/bots/spot-11x-sanorex\",\n      \"fr\": \"https://botfounders.com/fr/bots/spot-11x-sanorex\",\n      \"it\": \"https://botfounders.com/it/bots/spot-11x-sanorex\",\n      \"pl\": \"https://botfounders.com/pl/bots/spot-11x-sanorex\",\n      \"pt\": \"https://botfounders.com/pt/bots/spot-11x-sanorex\",\n      \"nl\": \"https://botfounders.com/nl/bots/spot-11x-sanorex\"\n    }\n  },\n  {\n    \"robotName\": \"Switch Hiprex 800x\",\n    \"slug\": \"switch-hiprex-800x\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/switch-hiprex-800x\",\n      \"de\": \"https://botfounders.com/de/bots/switch-hiprex-800x\",\n      \"es\": \"https://botfounders.com/es/bots/switch-hiprex-800x\",\n      \"fr\": \"https://botfounders.com/fr/bots/switch-hiprex-800x\",\n      \"it\": \"https://botfounders.com/it/bots/switch-hiprex-800x\",\n      \"pl\": \"https://botfounders.com/pl/bots/switch-hiprex-800x\",\n      \"pt\": \"https://botfounders.com/pt/bots/switch-hiprex-800x\",\n      \"nl\": \"https://botfounders.com/nl/bots/switch-hiprex-800x\"\n    }\n  },\n  {\n    \"robotName\": \"Talonix Sphere\",\n    \"slug\": \"talonix-sphere\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/talonix-sphere\",\n      \"de\": \"https://botfounders.com/de/bots/talonix-sphere\",\n      \"es\": \"https://botfounders.com/es/bots/talonix-sphere\",\n      \"fr\": \"https://botfounders.com/fr/bots/talonix-sphere\",\n      \"it\": \"https://botfounders.com/it/bots/talonix-sphere\",\n      \"pl\": \"https://botfounders.com/pl/bots/talonix-sphere\",\n      \"pt\": \"https://botfounders.com/pt/bots/talonix-sphere\",\n      \"nl\": \"https://botfounders.com/nl/bots/talonix-sphere\"\n    }\n  },\n  {\n    \"robotName\": \"Trade Folex 6x\",\n    \"slug\": \"trade-folex-6x\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/trade-folex-6x\",\n      \"de\": \"https://botfounders.com/de/bots/trade-folex-6x\",\n      \"es\": \"https://botfounders.com/es/bots/trade-folex-6x\",\n      \"fr\": \"https://botfounders.com/fr/bots/trade-folex-6x\",\n      \"it\": \"https://botfounders.com/it/bots/trade-folex-6x\",\n      \"pl\": \"https://botfounders.com/pl/bots/trade-folex-6x\",\n      \"pt\": \"https://botfounders.com/pt/bots/trade-folex-6x\",\n      \"nl\": \"https://botfounders.com/nl/bots/trade-folex-6x\"\n    }\n  },\n  {\n    \"robotName\": \"Velora Betrix\",\n    \"slug\": \"velora-betrix\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/velora-betrix\",\n      \"de\": \"https://botfounders.com/de/bots/velora-betrix\",\n      \"es\": \"https://botfounders.com/es/bots/velora-betrix\",\n      \"fr\": \"https://botfounders.com/fr/bots/velora-betrix\",\n      \"it\": \"https://botfounders.com/it/bots/velora-betrix\",\n      \"pl\": \"https://botfounders.com/pl/bots/velora-betrix\",\n      \"pt\": \"https://botfounders.com/pt/bots/velora-betrix\",\n      \"nl\": \"https://botfounders.com/nl/bots/velora-betrix\"\n    }\n  },\n  {\n    \"robotName\": \"Vexlo Yield\",\n    \"slug\": \"vexlo-yield\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/vexlo-yield\",\n      \"de\": \"https://botfounders.com/de/bots/vexlo-yield\",\n      \"es\": \"https://botfounders.com/es/bots/vexlo-yield\",\n      \"fr\": \"https://botfounders.com/fr/bots/vexlo-yield\",\n      \"it\": \"https://botfounders.com/it/bots/vexlo-yield\",\n      \"pl\": \"https://botfounders.com/pl/bots/vexlo-yield\",\n      \"pt\": \"https://botfounders.com/pt/bots/vexlo-yield\",\n      \"nl\": \"https://botfounders.com/nl/bots/vexlo-yield\"\n    }\n  },\n  {\n    \"robotName\": \"Wealth Phantom\",\n    \"slug\": \"wealth-phantom\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/wealth-phantom\",\n      \"de\": \"https://botfounders.com/de/bots/wealth-phantom\",\n      \"es\": \"https://botfounders.com/es/bots/wealth-phantom\",\n      \"fr\": \"https://botfounders.com/fr/bots/wealth-phantom\",\n      \"it\": \"https://botfounders.com/it/bots/wealth-phantom\",\n      \"pl\": \"https://botfounders.com/pl/bots/wealth-phantom\",\n      \"pt\": \"https://botfounders.com/pt/bots/wealth-phantom\",\n      \"nl\": \"https://botfounders.com/nl/bots/wealth-phantom\"\n    }\n  },\n  {\n    \"robotName\": \"Wertoniax\",\n    \"slug\": \"wertoniax\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/wertoniax\",\n      \"de\": \"https://botfounders.com/de/bots/wertoniax\",\n      \"es\": \"https://botfounders.com/es/bots/wertoniax\",\n      \"fr\": \"https://botfounders.com/fr/bots/wertoniax\",\n      \"it\": \"https://botfounders.com/it/bots/wertoniax\",\n      \"pl\": \"https://botfounders.com/pl/bots/wertoniax\",\n      \"pt\": \"https://botfounders.com/pt/bots/wertoniax\",\n      \"nl\": \"https://botfounders.com/nl/bots/wertoniax\"\n    }\n  },\n  {\n    \"robotName\": \"Zeltix Edge\",\n    \"slug\": \"zeltix-edge\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/zeltix-edge\",\n      \"de\": \"https://botfounders.com/de/bots/zeltix-edge\",\n      \"es\": \"https://botfounders.com/es/bots/zeltix-edge\",\n      \"fr\": \"https://botfounders.com/fr/bots/zeltix-edge\",\n      \"it\": \"https://botfounders.com/it/bots/zeltix-edge\",\n      \"pl\": \"https://botfounders.com/pl/bots/zeltix-edge\",\n      \"pt\": \"https://botfounders.com/pt/bots/zeltix-edge\",\n      \"nl\": \"https://botfounders.com/nl/bots/zeltix-edge\"\n    }\n  },\n  {\n    \"robotName\": \"Zondratex\",\n    \"slug\": \"zondratex\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/zondratex\",\n      \"de\": \"https://botfounders.com/de/bots/zondratex\",\n      \"es\": \"https://botfounders.com/es/bots/zondratex\",\n      \"fr\": \"https://botfounders.com/fr/bots/zondratex\",\n      \"it\": \"https://botfounders.com/it/bots/zondratex\",\n      \"pl\": \"https://botfounders.com/pl/bots/zondratex\",\n      \"pt\": \"https://botfounders.com/pt/bots/zondratex\",\n      \"nl\": \"https://botfounders.com/nl/bots/zondratex\"\n    }\n  },\n  {\n    \"robotName\": \"AI Arbitrix\",\n    \"slug\": \"ai-arbitrix\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/ai-arbitrix\",\n      \"de\": \"https://botfounders.com/de/bots/ai-arbitrix\",\n      \"es\": \"https://botfounders.com/es/bots/ai-arbitrix\",\n      \"fr\": \"https://botfounders.com/fr/bots/ai-arbitrix\",\n      \"it\": \"https://botfounders.com/it/bots/ai-arbitrix\",\n      \"pl\": \"https://botfounders.com/pl/bots/ai-arbitrix\",\n      \"pt\": \"https://botfounders.com/pt/bots/ai-arbitrix\",\n      \"nl\": \"https://botfounders.com/nl/bots/ai-arbitrix\"\n    }\n  },\n  {\n    \"robotName\": \"AI Talent GPT\",\n    \"slug\": \"ai-talent-gpt\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/ai-talent-gpt\",\n      \"de\": \"https://botfounders.com/de/bots/ai-talent-gpt\",\n      \"es\": \"https://botfounders.com/es/bots/ai-talent-gpt\",\n      \"fr\": \"https://botfounders.com/fr/bots/ai-talent-gpt\",\n      \"it\": \"https://botfounders.com/it/bots/ai-talent-gpt\",\n      \"pl\": \"https://botfounders.com/pl/bots/ai-talent-gpt\",\n      \"pt\": \"https://botfounders.com/pt/bots/ai-talent-gpt\",\n      \"nl\": \"https://botfounders.com/nl/bots/ai-talent-gpt\"\n    }\n  },\n  {\n    \"robotName\": \"Alpha AI\",\n    \"slug\": \"alpha-ai\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/alpha-ai\",\n      \"de\": \"https://botfounders.com/de/bots/alpha-ai\",\n      \"es\": \"https://botfounders.com/es/bots/alpha-ai\",\n      \"fr\": \"https://botfounders.com/fr/bots/alpha-ai\",\n      \"it\": \"https://botfounders.com/it/bots/alpha-ai\",\n      \"pl\": \"https://botfounders.com/pl/bots/alpha-ai\",\n      \"pt\": \"https://botfounders.com/pt/bots/alpha-ai\",\n      \"nl\": \"https://botfounders.com/nl/bots/alpha-ai\"\n    }\n  },\n  {\n    \"robotName\": \"Altex Momentum\",\n    \"slug\": \"altex-momentum\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/altex-momentum\",\n      \"de\": \"https://botfounders.com/de/bots/altex-momentum\",\n      \"es\": \"https://botfounders.com/es/bots/altex-momentum\",\n      \"fr\": \"https://botfounders.com/fr/bots/altex-momentum\",\n      \"it\": \"https://botfounders.com/it/bots/altex-momentum\",\n      \"pl\": \"https://botfounders.com/pl/bots/altex-momentum\",\n      \"pt\": \"https://botfounders.com/pt/bots/altex-momentum\",\n      \"nl\": \"https://botfounders.com/nl/bots/altex-momentum\"\n    }\n  },\n  {\n    \"robotName\": \"Angrumbit\",\n    \"slug\": \"angrumbit\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/angrumbit\",\n      \"de\": \"https://botfounders.com/de/bots/angrumbit\",\n      \"es\": \"https://botfounders.com/es/bots/angrumbit\",\n      \"fr\": \"https://botfounders.com/fr/bots/angrumbit\",\n      \"it\": \"https://botfounders.com/it/bots/angrumbit\",\n      \"pl\": \"https://botfounders.com/pl/bots/angrumbit\",\n      \"pt\": \"https://botfounders.com/pt/bots/angrumbit\",\n      \"nl\": \"https://botfounders.com/nl/bots/angrumbit\"\n    }\n  },\n  {\n    \"robotName\": \"Apex Trade\",\n    \"slug\": \"apex-trade\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/apex-trade\",\n      \"de\": \"https://botfounders.com/de/bots/apex-trade\",\n      \"es\": \"https://botfounders.com/es/bots/apex-trade\",\n      \"fr\": \"https://botfounders.com/fr/bots/apex-trade\",\n      \"it\": \"https://botfounders.com/it/bots/apex-trade\",\n      \"pl\": \"https://botfounders.com/pl/bots/apex-trade\",\n      \"pt\": \"https://botfounders.com/pt/bots/apex-trade\",\n      \"nl\": \"https://botfounders.com/nl/bots/apex-trade\"\n    }\n  },\n  {\n    \"robotName\": \"Arbionis\",\n    \"slug\": \"arbionis\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/arbionis\",\n      \"de\": \"https://botfounders.com/de/bots/arbionis\",\n      \"es\": \"https://botfounders.com/es/bots/arbionis\",\n      \"fr\": \"https://botfounders.com/fr/bots/arbionis\",\n      \"it\": \"https://botfounders.com/it/bots/arbionis\",\n      \"pl\": \"https://botfounders.com/pl/bots/arbionis\",\n      \"pt\": \"https://botfounders.com/pt/bots/arbionis\",\n      \"nl\": \"https://botfounders.com/nl/bots/arbionis\"\n    }\n  },\n  {\n    \"robotName\": \"Arbiquant\",\n    \"slug\": \"arbiquant\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/arbiquant\",\n      \"de\": \"https://botfounders.com/de/bots/arbiquant\",\n      \"es\": \"https://botfounders.com/es/bots/arbiquant\",\n      \"fr\": \"https://botfounders.com/fr/bots/arbiquant\",\n      \"it\": \"https://botfounders.com/it/bots/arbiquant\",\n      \"pl\": \"https://botfounders.com/pl/bots/arbiquant\",\n      \"pt\": \"https://botfounders.com/pt/bots/arbiquant\",\n      \"nl\": \"https://botfounders.com/nl/bots/arbiquant\"\n    }\n  },\n  {\n    \"robotName\": \"Arbitrix Edge\",\n    \"slug\": \"arbitrix-edge\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/arbitrix-edge\",\n      \"de\": \"https://botfounders.com/de/bots/arbitrix-edge\",\n      \"es\": \"https://botfounders.com/es/bots/arbitrix-edge\",\n      \"fr\": \"https://botfounders.com/fr/bots/arbitrix-edge\",\n      \"it\": \"https://botfounders.com/it/bots/arbitrix-edge\",\n      \"pl\": \"https://botfounders.com/pl/bots/arbitrix-edge\",\n      \"pt\": \"https://botfounders.com/pt/bots/arbitrix-edge\",\n      \"nl\": \"https://botfounders.com/nl/bots/arbitrix-edge\"\n    }\n  },\n  {\n    \"robotName\": \"Argentis Grid GPT\",\n    \"slug\": \"argentis-grid-gpt\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/argentis-grid-gpt\",\n      \"de\": \"https://botfounders.com/de/bots/argentis-grid-gpt\",\n      \"es\": \"https://botfounders.com/es/bots/argentis-grid-gpt\",\n      \"fr\": \"https://botfounders.com/fr/bots/argentis-grid-gpt\",\n      \"it\": \"https://botfounders.com/it/bots/argentis-grid-gpt\",\n      \"pl\": \"https://botfounders.com/pl/bots/argentis-grid-gpt\",\n      \"pt\": \"https://botfounders.com/pt/bots/argentis-grid-gpt\",\n      \"nl\": \"https://botfounders.com/nl/bots/argentis-grid-gpt\"\n    }\n  },\n  {\n    \"robotName\": \"Azorilix\",\n    \"slug\": \"azorilix\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/azorilix\",\n      \"de\": \"https://botfounders.com/de/bots/azorilix\",\n      \"es\": \"https://botfounders.com/es/bots/azorilix\",\n      \"fr\": \"https://botfounders.com/fr/bots/azorilix\",\n      \"it\": \"https://botfounders.com/it/bots/azorilix\",\n      \"pl\": \"https://botfounders.com/pl/bots/azorilix\",\n      \"pt\": \"https://botfounders.com/pt/bots/azorilix\",\n      \"nl\": \"https://botfounders.com/nl/bots/azorilix\"\n    }\n  },\n  {\n    \"robotName\": \"Belonix Trader\",\n    \"slug\": \"belonix-trader\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/belonix-trader\",\n      \"de\": \"https://botfounders.com/de/bots/belonix-trader\",\n      \"es\": \"https://botfounders.com/es/bots/belonix-trader\",\n      \"fr\": \"https://botfounders.com/fr/bots/belonix-trader\",\n      \"it\": \"https://botfounders.com/it/bots/belonix-trader\",\n      \"pl\": \"https://botfounders.com/pl/bots/belonix-trader\",\n      \"pt\": \"https://botfounders.com/pt/bots/belonix-trader\",\n      \"nl\": \"https://botfounders.com/nl/bots/belonix-trader\"\n    }\n  },\n  {\n    \"robotName\": \"Berandvex\",\n    \"slug\": \"berandvex\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/berandvex\",\n      \"de\": \"https://botfounders.com/de/bots/berandvex\",\n      \"es\": \"https://botfounders.com/es/bots/berandvex\",\n      \"fr\": \"https://botfounders.com/fr/bots/berandvex\",\n      \"it\": \"https://botfounders.com/it/bots/berandvex\",\n      \"pl\": \"https://botfounders.com/pl/bots/berandvex\",\n      \"pt\": \"https://botfounders.com/pt/bots/berandvex\",\n      \"nl\": \"https://botfounders.com/nl/bots/berandvex\"\n    }\n  },\n  {\n    \"robotName\": \"Bit 10 ePrex\",\n    \"slug\": \"bit-10-eprex\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/bit-10-eprex\",\n      \"de\": \"https://botfounders.com/de/bots/bit-10-eprex\",\n      \"es\": \"https://botfounders.com/es/bots/bit-10-eprex\",\n      \"fr\": \"https://botfounders.com/fr/bots/bit-10-eprex\",\n      \"it\": \"https://botfounders.com/it/bots/bit-10-eprex\",\n      \"pl\": \"https://botfounders.com/pl/bots/bit-10-eprex\",\n      \"pt\": \"https://botfounders.com/pt/bots/bit-10-eprex\",\n      \"nl\": \"https://botfounders.com/nl/bots/bit-10-eprex\"\n    }\n  },\n  {\n    \"robotName\": \"BitBolt\",\n    \"slug\": \"bitbolt\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/bitbolt\",\n      \"de\": \"https://botfounders.com/de/bots/bitbolt\",\n      \"es\": \"https://botfounders.com/es/bots/bitbolt\",\n      \"fr\": \"https://botfounders.com/fr/bots/bitbolt\",\n      \"it\": \"https://botfounders.com/it/bots/bitbolt\",\n      \"pl\": \"https://botfounders.com/pl/bots/bitbolt\",\n      \"pt\": \"https://botfounders.com/pt/bots/bitbolt\",\n      \"nl\": \"https://botfounders.com/nl/bots/bitbolt\"\n    }\n  },\n  {\n    \"robotName\": \"Bitcode Method\",\n    \"slug\": \"bitcode-method\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/bitcode-method\",\n      \"de\": \"https://botfounders.com/de/bots/bitcode-method\",\n      \"es\": \"https://botfounders.com/es/bots/bitcode-method\",\n      \"fr\": \"https://botfounders.com/fr/bots/bitcode-method\",\n      \"it\": \"https://botfounders.com/it/bots/bitcode-method\",\n      \"pl\": \"https://botfounders.com/pl/bots/bitcode-method\",\n      \"pt\": \"https://botfounders.com/pt/bots/bitcode-method\",\n      \"nl\": \"https://botfounders.com/nl/bots/bitcode-method\"\n    }\n  },\n  {\n    \"robotName\": \"Bitcoin Apex\",\n    \"slug\": \"bitcoin-apex\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/bitcoin-apex\",\n      \"de\": \"https://botfounders.com/de/bots/bitcoin-apex\",\n      \"es\": \"https://botfounders.com/es/bots/bitcoin-apex\",\n      \"fr\": \"https://botfounders.com/fr/bots/bitcoin-apex\",\n      \"it\": \"https://botfounders.com/it/bots/bitcoin-apex\",\n      \"pl\": \"https://botfounders.com/pl/bots/bitcoin-apex\",\n      \"pt\": \"https://botfounders.com/pt/bots/bitcoin-apex\",\n      \"nl\": \"https://botfounders.com/nl/bots/bitcoin-apex\"\n    }\n  },\n  {\n    \"robotName\": \"Bitcoin Bank Breaker\",\n    \"slug\": \"bitcoin-bank-breaker\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/bitcoin-bank-breaker\",\n      \"de\": \"https://botfounders.com/de/bots/bitcoin-bank-breaker\",\n      \"es\": \"https://botfounders.com/es/bots/bitcoin-bank-breaker\",\n      \"fr\": \"https://botfounders.com/fr/bots/bitcoin-bank-breaker\",\n      \"it\": \"https://botfounders.com/it/bots/bitcoin-bank-breaker\",\n      \"pl\": \"https://botfounders.com/pl/bots/bitcoin-bank-breaker\",\n      \"pt\": \"https://botfounders.com/pt/bots/bitcoin-bank-breaker\",\n      \"nl\": \"https://botfounders.com/nl/bots/bitcoin-bank-breaker\"\n    }\n  },\n  {\n    \"robotName\": \"Bitcoin Billionaire\",\n    \"slug\": \"bitcoin-billionaire\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/bitcoin-billionaire\",\n      \"de\": \"https://botfounders.com/de/bots/bitcoin-billionaire\",\n      \"es\": \"https://botfounders.com/es/bots/bitcoin-billionaire\",\n      \"fr\": \"https://botfounders.com/fr/bots/bitcoin-billionaire\",\n      \"it\": \"https://botfounders.com/it/bots/bitcoin-billionaire\",\n      \"pl\": \"https://botfounders.com/pl/bots/bitcoin-billionaire\",\n      \"pt\": \"https://botfounders.com/pt/bots/bitcoin-billionaire\",\n      \"nl\": \"https://botfounders.com/nl/bots/bitcoin-billionaire\"\n    }\n  },\n  {\n    \"robotName\": \"Bitcoin Prism Pro\",\n    \"slug\": \"bitcoin-prism-pro\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/bitcoin-prism-pro\",\n      \"de\": \"https://botfounders.com/de/bots/bitcoin-prism-pro\",\n      \"es\": \"https://botfounders.com/es/bots/bitcoin-prism-pro\",\n      \"fr\": \"https://botfounders.com/fr/bots/bitcoin-prism-pro\",\n      \"it\": \"https://botfounders.com/it/bots/bitcoin-prism-pro\",\n      \"pl\": \"https://botfounders.com/pl/bots/bitcoin-prism-pro\",\n      \"pt\": \"https://botfounders.com/pt/bots/bitcoin-prism-pro\",\n      \"nl\": \"https://botfounders.com/nl/bots/bitcoin-prism-pro\"\n    }\n  },\n  {\n    \"robotName\": \"Bitcore Peak\",\n    \"slug\": \"bitcore-peak\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/bitcore-peak\",\n      \"de\": \"https://botfounders.com/de/bots/bitcore-peak\",\n      \"es\": \"https://botfounders.com/es/bots/bitcore-peak\",\n      \"fr\": \"https://botfounders.com/fr/bots/bitcore-peak\",\n      \"it\": \"https://botfounders.com/it/bots/bitcore-peak\",\n      \"pl\": \"https://botfounders.com/pl/bots/bitcore-peak\",\n      \"pt\": \"https://botfounders.com/pt/bots/bitcore-peak\",\n      \"nl\": \"https://botfounders.com/nl/bots/bitcore-peak\"\n    }\n  },\n  {\n    \"robotName\": \"Bitcoin X\",\n    \"slug\": \"bitcoin-x\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/bitcoin-x\",\n      \"de\": \"https://botfounders.com/de/bots/bitcoin-x\",\n      \"es\": \"https://botfounders.com/es/bots/bitcoin-x\",\n      \"fr\": \"https://botfounders.com/fr/bots/bitcoin-x\",\n      \"it\": \"https://botfounders.com/it/bots/bitcoin-x\",\n      \"pl\": \"https://botfounders.com/pl/bots/bitcoin-x\",\n      \"pt\": \"https://botfounders.com/pt/bots/bitcoin-x\",\n      \"nl\": \"https://botfounders.com/nl/bots/bitcoin-x\"\n    }\n  },\n  {\n    \"robotName\": \"Bitlax Lab\",\n    \"slug\": \"bitlax-lab\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/bitlax-lab\",\n      \"de\": \"https://botfounders.com/de/bots/bitlax-lab\",\n      \"es\": \"https://botfounders.com/es/bots/bitlax-lab\",\n      \"fr\": \"https://botfounders.com/fr/bots/bitlax-lab\",\n      \"it\": \"https://botfounders.com/it/bots/bitlax-lab\",\n      \"pl\": \"https://botfounders.com/pl/bots/bitlax-lab\",\n      \"pt\": \"https://botfounders.com/pt/bots/bitlax-lab\",\n      \"nl\": \"https://botfounders.com/nl/bots/bitlax-lab\"\n    }\n  },\n  {\n    \"robotName\": \"Bitlax Smart AI\",\n    \"slug\": \"bitlax-smart-ai\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/bitlax-smart-ai\",\n      \"de\": \"https://botfounders.com/de/bots/bitlax-smart-ai\",\n      \"es\": \"https://botfounders.com/es/bots/bitlax-smart-ai\",\n      \"fr\": \"https://botfounders.com/fr/bots/bitlax-smart-ai\",\n      \"it\": \"https://botfounders.com/it/bots/bitlax-smart-ai\",\n      \"pl\": \"https://botfounders.com/pl/bots/bitlax-smart-ai\",\n      \"pt\": \"https://botfounders.com/pt/bots/bitlax-smart-ai\",\n      \"nl\": \"https://botfounders.com/nl/bots/bitlax-smart-ai\"\n    }\n  },\n  {\n    \"robotName\": \"Bitplex 360\",\n    \"slug\": \"bitplex-360\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/bitplex-360\",\n      \"de\": \"https://botfounders.com/de/bots/bitplex-360\",\n      \"es\": \"https://botfounders.com/es/bots/bitplex-360\",\n      \"fr\": \"https://botfounders.com/fr/bots/bitplex-360\",\n      \"it\": \"https://botfounders.com/it/bots/bitplex-360\",\n      \"pl\": \"https://botfounders.com/pl/bots/bitplex-360\",\n      \"pt\": \"https://botfounders.com/pt/bots/bitplex-360\",\n      \"nl\": \"https://botfounders.com/nl/bots/bitplex-360\"\n    }\n  },\n  {\n    \"robotName\": \"Bitplex AI\",\n    \"slug\": \"bitplex-ai\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/bitplex-ai\",\n      \"de\": \"https://botfounders.com/de/bots/bitplex-ai\",\n      \"es\": \"https://botfounders.com/es/bots/bitplex-ai\",\n      \"fr\": \"https://botfounders.com/fr/bots/bitplex-ai\",\n      \"it\": \"https://botfounders.com/it/bots/bitplex-ai\",\n      \"pl\": \"https://botfounders.com/pl/bots/bitplex-ai\",\n      \"pt\": \"https://botfounders.com/pt/bots/bitplex-ai\",\n      \"nl\": \"https://botfounders.com/nl/bots/bitplex-ai\"\n    }\n  },\n  {\n    \"robotName\": \"BitQL\",\n    \"slug\": \"bitql\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/bitql\",\n      \"de\": \"https://botfounders.com/de/bots/bitql\",\n      \"es\": \"https://botfounders.com/es/bots/bitql\",\n      \"fr\": \"https://botfounders.com/fr/bots/bitql\",\n      \"it\": \"https://botfounders.com/it/bots/bitql\",\n      \"pl\": \"https://botfounders.com/pl/bots/bitql\",\n      \"pt\": \"https://botfounders.com/pt/bots/bitql\",\n      \"nl\": \"https://botfounders.com/nl/bots/bitql\"\n    }\n  },\n  {\n    \"robotName\": \"Bitzest Genius\",\n    \"slug\": \"bitzest-genius\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/bitzest-genius\",\n      \"de\": \"https://botfounders.com/de/bots/bitzest-genius\",\n      \"es\": \"https://botfounders.com/es/bots/bitzest-genius\",\n      \"fr\": \"https://botfounders.com/fr/bots/bitzest-genius\",\n      \"it\": \"https://botfounders.com/it/bots/bitzest-genius\",\n      \"pl\": \"https://botfounders.com/pl/bots/bitzest-genius\",\n      \"pt\": \"https://botfounders.com/pt/bots/bitzest-genius\",\n      \"nl\": \"https://botfounders.com/nl/bots/bitzest-genius\"\n    }\n  },\n  {\n    \"robotName\": \"Capital Zevionis\",\n    \"slug\": \"capital-zevionis\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/capital-zevionis\",\n      \"de\": \"https://botfounders.com/de/bots/capital-zevionis\",\n      \"es\": \"https://botfounders.com/es/bots/capital-zevionis\",\n      \"fr\": \"https://botfounders.com/fr/bots/capital-zevionis\",\n      \"it\": \"https://botfounders.com/it/bots/capital-zevionis\",\n      \"pl\": \"https://botfounders.com/pl/bots/capital-zevionis\",\n      \"pt\": \"https://botfounders.com/pt/bots/capital-zevionis\",\n      \"nl\": \"https://botfounders.com/nl/bots/capital-zevionis\"\n    }\n  },\n  {\n    \"robotName\": \"Coinestix\",\n    \"slug\": \"coinestix\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/coinestix\",\n      \"de\": \"https://botfounders.com/de/bots/coinestix\",\n      \"es\": \"https://botfounders.com/es/bots/coinestix\",\n      \"fr\": \"https://botfounders.com/fr/bots/coinestix\",\n      \"it\": \"https://botfounders.com/it/bots/coinestix\",\n      \"pl\": \"https://botfounders.com/pl/bots/coinestix\",\n      \"pt\": \"https://botfounders.com/pt/bots/coinestix\",\n      \"nl\": \"https://botfounders.com/nl/bots/coinestix\"\n    }\n  },\n  {\n    \"robotName\": \"Crimson Flux AI\",\n    \"slug\": \"crimson-flux-ai\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/crimson-flux-ai\",\n      \"de\": \"https://botfounders.com/de/bots/crimson-flux-ai\",\n      \"es\": \"https://botfounders.com/es/bots/crimson-flux-ai\",\n      \"fr\": \"https://botfounders.com/fr/bots/crimson-flux-ai\",\n      \"it\": \"https://botfounders.com/it/bots/crimson-flux-ai\",\n      \"pl\": \"https://botfounders.com/pl/bots/crimson-flux-ai\",\n      \"pt\": \"https://botfounders.com/pt/bots/crimson-flux-ai\",\n      \"nl\": \"https://botfounders.com/nl/bots/crimson-flux-ai\"\n    }\n  },\n  {\n    \"robotName\": \"Crypto Explode AI\",\n    \"slug\": \"crypto-explode-ai\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/crypto-explode-ai\",\n      \"de\": \"https://botfounders.com/de/bots/crypto-explode-ai\",\n      \"es\": \"https://botfounders.com/es/bots/crypto-explode-ai\",\n      \"fr\": \"https://botfounders.com/fr/bots/crypto-explode-ai\",\n      \"it\": \"https://botfounders.com/it/bots/crypto-explode-ai\",\n      \"pl\": \"https://botfounders.com/pl/bots/crypto-explode-ai\",\n      \"pt\": \"https://botfounders.com/pt/bots/crypto-explode-ai\",\n      \"nl\": \"https://botfounders.com/nl/bots/crypto-explode-ai\"\n    }\n  },\n  {\n    \"robotName\": \"Cryptonite AI\",\n    \"slug\": \"cryptonite-ai\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/cryptonite-ai\",\n      \"de\": \"https://botfounders.com/de/bots/cryptonite-ai\",\n      \"es\": \"https://botfounders.com/es/bots/cryptonite-ai\",\n      \"fr\": \"https://botfounders.com/fr/bots/cryptonite-ai\",\n      \"it\": \"https://botfounders.com/it/bots/cryptonite-ai\",\n      \"pl\": \"https://botfounders.com/pl/bots/cryptonite-ai\",\n      \"pt\": \"https://botfounders.com/pt/bots/cryptonite-ai\",\n      \"nl\": \"https://botfounders.com/nl/bots/cryptonite-ai\"\n    }\n  },\n  {\n    \"robotName\": \"Cryzora GPT\",\n    \"slug\": \"cryzora-gpt\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/cryzora-gpt\",\n      \"de\": \"https://botfounders.com/de/bots/cryzora-gpt\",\n      \"es\": \"https://botfounders.com/es/bots/cryzora-gpt\",\n      \"fr\": \"https://botfounders.com/fr/bots/cryzora-gpt\",\n      \"it\": \"https://botfounders.com/it/bots/cryzora-gpt\",\n      \"pl\": \"https://botfounders.com/pl/bots/cryzora-gpt\",\n      \"pt\": \"https://botfounders.com/pt/bots/cryzora-gpt\",\n      \"nl\": \"https://botfounders.com/nl/bots/cryzora-gpt\"\n    }\n  },\n  {\n    \"robotName\": \"Cyber Stratus AI\",\n    \"slug\": \"cyber-stratus-ai\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/cyber-stratus-ai\",\n      \"de\": \"https://botfounders.com/de/bots/cyber-stratus-ai\",\n      \"es\": \"https://botfounders.com/es/bots/cyber-stratus-ai\",\n      \"fr\": \"https://botfounders.com/fr/bots/cyber-stratus-ai\",\n      \"it\": \"https://botfounders.com/it/bots/cyber-stratus-ai\",\n      \"pl\": \"https://botfounders.com/pl/bots/cyber-stratus-ai\",\n      \"pt\": \"https://botfounders.com/pt/bots/cyber-stratus-ai\",\n      \"nl\": \"https://botfounders.com/nl/bots/cyber-stratus-ai\"\n    }\n  },\n  {\n    \"robotName\": \"Cyphix Edge\",\n    \"slug\": \"cyphix-edge\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/cyphix-edge\",\n      \"de\": \"https://botfounders.com/de/bots/cyphix-edge\",\n      \"es\": \"https://botfounders.com/es/bots/cyphix-edge\",\n      \"fr\": \"https://botfounders.com/fr/bots/cyphix-edge\",\n      \"it\": \"https://botfounders.com/it/bots/cyphix-edge\",\n      \"pl\": \"https://botfounders.com/pl/bots/cyphix-edge\",\n      \"pt\": \"https://botfounders.com/pt/bots/cyphix-edge\",\n      \"nl\": \"https://botfounders.com/nl/bots/cyphix-edge\"\n    }\n  },\n  {\n    \"robotName\": \"Deutschgenie\",\n    \"slug\": \"deutschgenie\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/deutschgenie\",\n      \"de\": \"https://botfounders.com/de/bots/deutschgenie\",\n      \"es\": \"https://botfounders.com/es/bots/deutschgenie\",\n      \"fr\": \"https://botfounders.com/fr/bots/deutschgenie\",\n      \"it\": \"https://botfounders.com/it/bots/deutschgenie\",\n      \"pl\": \"https://botfounders.com/pl/bots/deutschgenie\",\n      \"pt\": \"https://botfounders.com/pt/bots/deutschgenie\",\n      \"nl\": \"https://botfounders.com/nl/bots/deutschgenie\"\n    }\n  },\n  {\n    \"robotName\": \"Digital Vortex\",\n    \"slug\": \"digital-vortex\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/digital-vortex\",\n      \"de\": \"https://botfounders.com/de/bots/digital-vortex\",\n      \"es\": \"https://botfounders.com/es/bots/digital-vortex\",\n      \"fr\": \"https://botfounders.com/fr/bots/digital-vortex\",\n      \"it\": \"https://botfounders.com/it/bots/digital-vortex\",\n      \"pl\": \"https://botfounders.com/pl/bots/digital-vortex\",\n      \"pt\": \"https://botfounders.com/pt/bots/digital-vortex\",\n      \"nl\": \"https://botfounders.com/nl/bots/digital-vortex\"\n    }\n  },\n  {\n    \"robotName\": \"Drexiron Flow AI\",\n    \"slug\": \"drexiron-flow-ai\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/drexiron-flow-ai\",\n      \"de\": \"https://botfounders.com/de/bots/drexiron-flow-ai\",\n      \"es\": \"https://botfounders.com/es/bots/drexiron-flow-ai\",\n      \"fr\": \"https://botfounders.com/fr/bots/drexiron-flow-ai\",\n      \"it\": \"https://botfounders.com/it/bots/drexiron-flow-ai\",\n      \"pl\": \"https://botfounders.com/pl/bots/drexiron-flow-ai\",\n      \"pt\": \"https://botfounders.com/pt/bots/drexiron-flow-ai\",\n      \"nl\": \"https://botfounders.com/nl/bots/drexiron-flow-ai\"\n    }\n  },\n  {\n    \"robotName\": \"Dynamisch Avonex\",\n    \"slug\": \"dynamisch-avonex\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/dynamisch-avonex\",\n      \"de\": \"https://botfounders.com/de/bots/dynamisch-avonex\",\n      \"es\": \"https://botfounders.com/es/bots/dynamisch-avonex\",\n      \"fr\": \"https://botfounders.com/fr/bots/dynamisch-avonex\",\n      \"it\": \"https://botfounders.com/it/bots/dynamisch-avonex\",\n      \"pl\": \"https://botfounders.com/pl/bots/dynamisch-avonex\",\n      \"pt\": \"https://botfounders.com/pt/bots/dynamisch-avonex\",\n      \"nl\": \"https://botfounders.com/nl/bots/dynamisch-avonex\"\n    }\n  },\n  {\n    \"robotName\": \"Ethereum Code\",\n    \"slug\": \"ethereum-code\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/ethereum-code\",\n      \"de\": \"https://botfounders.com/de/bots/ethereum-code\",\n      \"es\": \"https://botfounders.com/es/bots/ethereum-code\",\n      \"fr\": \"https://botfounders.com/fr/bots/ethereum-code\",\n      \"it\": \"https://botfounders.com/it/bots/ethereum-code\",\n      \"pl\": \"https://botfounders.com/pl/bots/ethereum-code\",\n      \"pt\": \"https://botfounders.com/pt/bots/ethereum-code\",\n      \"nl\": \"https://botfounders.com/nl/bots/ethereum-code\"\n    }\n  },\n  {\n    \"robotName\": \"Everix Edge\",\n    \"slug\": \"everix-edge\",\n    \"urls\": {\n      \"en\": \"https://botfounders.com/bots/everix-edge\",\n      \"de\": \"https://botfounders.com/de/bots/everix-edge\",\n      \"es\": \"https://botfounders.com/es/bots/everix-edge\",\n      \"fr\": \"https://botfounders.com/fr/bots/everix-edge\",\n      \"it\": \"https://botfounders.com/it/bots/everix-edge\",\n      \"pl\": \"https://botfounders.com/pl/bots/everix-edge\",\n      \"pt\": \"https://botfounders.com/pt/bots/everix-edge\",\n      \"nl\": \"https://botfounders.com/nl/bots/everix-edge\"\n    }\n  }\n]"
+    "robotName": "AlgoNova FX",
+    "slug": "algonova-fx",
+    "urls": {
+      "en": "https://botfounders.com/bots/algonova-fx",
+      "de": "https://botfounders.com/de/bots/algonova-fx",
+      "es": "https://botfounders.com/es/bots/algonova-fx",
+      "fr": "https://botfounders.com/fr/bots/algonova-fx",
+      "it": "https://botfounders.com/it/bots/algonova-fx",
+      "pl": "https://botfounders.com/pl/bots/algonova-fx",
+      "pt": "https://botfounders.com/pt/bots/algonova-fx",
+      "nl": "https://botfounders.com/nl/bots/algonova-fx"
+    }
+  },
+  {
+    "robotName": "Apex Zotum",
+    "slug": "apex-zotum",
+    "urls": {
+      "en": "https://botfounders.com/bots/apex-zotum",
+      "de": "https://botfounders.com/de/bots/apex-zotum",
+      "es": "https://botfounders.com/es/bots/apex-zotum",
+      "fr": "https://botfounders.com/fr/bots/apex-zotum",
+      "it": "https://botfounders.com/it/bots/apex-zotum",
+      "pl": "https://botfounders.com/pl/bots/apex-zotum",
+      "pt": "https://botfounders.com/pt/bots/apex-zotum",
+      "nl": "https://botfounders.com/nl/bots/apex-zotum"
+    }
+  },
+  {
+    "robotName": "Beravetax",
+    "slug": "beravetax",
+    "urls": {
+      "en": "https://botfounders.com/bots/beravetax",
+      "de": "https://botfounders.com/de/bots/beravetax",
+      "es": "https://botfounders.com/es/bots/beravetax",
+      "fr": "https://botfounders.com/fr/bots/beravetax",
+      "it": "https://botfounders.com/it/bots/beravetax",
+      "pl": "https://botfounders.com/pl/bots/beravetax",
+      "pt": "https://botfounders.com/pt/bots/beravetax",
+      "nl": "https://botfounders.com/nl/bots/beravetax"
+    }
+  },
+  {
+    "robotName": "Bevon Stride GPT",
+    "slug": "bevon-stride-gpt",
+    "urls": {
+      "en": "https://botfounders.com/bots/bevon-stride-gpt",
+      "de": "https://botfounders.com/de/bots/bevon-stride-gpt",
+      "es": "https://botfounders.com/es/bots/bevon-stride-gpt",
+      "fr": "https://botfounders.com/fr/bots/bevon-stride-gpt",
+      "it": "https://botfounders.com/it/bots/bevon-stride-gpt",
+      "pl": "https://botfounders.com/pl/bots/bevon-stride-gpt",
+      "pt": "https://botfounders.com/pt/bots/bevon-stride-gpt",
+      "nl": "https://botfounders.com/nl/bots/bevon-stride-gpt"
+    }
+  },
+  {
+    "robotName": "Bigcrypt Edge",
+    "slug": "bigcrypt-edge",
+    "urls": {
+      "en": "https://botfounders.com/bots/bigcrypt-edge",
+      "de": "https://botfounders.com/de/bots/bigcrypt-edge",
+      "es": "https://botfounders.com/es/bots/bigcrypt-edge",
+      "fr": "https://botfounders.com/fr/bots/bigcrypt-edge",
+      "it": "https://botfounders.com/it/bots/bigcrypt-edge",
+      "pl": "https://botfounders.com/pl/bots/bigcrypt-edge",
+      "pt": "https://botfounders.com/pt/bots/bigcrypt-edge",
+      "nl": "https://botfounders.com/nl/bots/bigcrypt-edge"
+    }
+  },
+  {
+    "robotName": "Bitcoin Champion",
+    "slug": "bitcoin-champion",
+    "urls": {
+      "en": "https://botfounders.com/bots/bitcoin-champion",
+      "de": "https://botfounders.com/de/bots/bitcoin-champion",
+      "es": "https://botfounders.com/es/bots/bitcoin-champion",
+      "fr": "https://botfounders.com/fr/bots/bitcoin-champion",
+      "it": "https://botfounders.com/it/bots/bitcoin-champion",
+      "pl": "https://botfounders.com/pl/bots/bitcoin-champion",
+      "pt": "https://botfounders.com/pt/bots/bitcoin-champion",
+      "nl": "https://botfounders.com/nl/bots/bitcoin-champion"
+    }
+  },
+  {
+    "robotName": "Bitcoin Everest AI",
+    "slug": "bitcoin-everest-ai",
+    "urls": {
+      "en": "https://botfounders.com/bots/bitcoin-everest-ai",
+      "de": "https://botfounders.com/de/bots/bitcoin-everest-ai",
+      "es": "https://botfounders.com/es/bots/bitcoin-everest-ai",
+      "fr": "https://botfounders.com/fr/bots/bitcoin-everest-ai",
+      "it": "https://botfounders.com/it/bots/bitcoin-everest-ai",
+      "pl": "https://botfounders.com/pl/bots/bitcoin-everest-ai",
+      "pt": "https://botfounders.com/pt/bots/bitcoin-everest-ai",
+      "nl": "https://botfounders.com/nl/bots/bitcoin-everest-ai"
+    }
+  },
+  {
+    "robotName": "Bitcoineer",
+    "slug": "bitcoineer",
+    "urls": {
+      "en": "https://botfounders.com/bots/bitcoineer",
+      "de": "https://botfounders.com/de/bots/bitcoineer",
+      "es": "https://botfounders.com/es/bots/bitcoineer",
+      "fr": "https://botfounders.com/fr/bots/bitcoineer",
+      "it": "https://botfounders.com/it/bots/bitcoineer",
+      "pl": "https://botfounders.com/pl/bots/bitcoineer",
+      "pt": "https://botfounders.com/pt/bots/bitcoineer",
+      "nl": "https://botfounders.com/nl/bots/bitcoineer"
+    }
+  },
+  {
+    "robotName": "Bitcore 360",
+    "slug": "bitcore-360",
+    "urls": {
+      "en": "https://botfounders.com/bots/bitcore-360",
+      "de": "https://botfounders.com/de/bots/bitcore-360",
+      "es": "https://botfounders.com/es/bots/bitcore-360",
+      "fr": "https://botfounders.com/fr/bots/bitcore-360",
+      "it": "https://botfounders.com/it/bots/bitcore-360",
+      "pl": "https://botfounders.com/pl/bots/bitcore-360",
+      "pt": "https://botfounders.com/pt/bots/bitcore-360",
+      "nl": "https://botfounders.com/nl/bots/bitcore-360"
+    }
+  },
+  {
+    "robotName": "Bitprime Gold",
+    "slug": "bitprime-gold",
+    "urls": {
+      "en": "https://botfounders.com/bots/bitprime-gold",
+      "de": "https://botfounders.com/de/bots/bitprime-gold",
+      "es": "https://botfounders.com/es/bots/bitprime-gold",
+      "fr": "https://botfounders.com/fr/bots/bitprime-gold",
+      "it": "https://botfounders.com/it/bots/bitprime-gold",
+      "pl": "https://botfounders.com/pl/bots/bitprime-gold",
+      "pt": "https://botfounders.com/pt/bots/bitprime-gold",
+      "nl": "https://botfounders.com/nl/bots/bitprime-gold"
+    }
+  },
+  {
+    "robotName": "Cashaxor",
+    "slug": "cashaxor",
+    "urls": {
+      "en": "https://botfounders.com/bots/cashaxor",
+      "de": "https://botfounders.com/de/bots/cashaxor",
+      "es": "https://botfounders.com/es/bots/cashaxor",
+      "fr": "https://botfounders.com/fr/bots/cashaxor",
+      "it": "https://botfounders.com/it/bots/cashaxor",
+      "pl": "https://botfounders.com/pl/bots/cashaxor",
+      "pt": "https://botfounders.com/pt/bots/cashaxor",
+      "nl": "https://botfounders.com/nl/bots/cashaxor"
+    }
+  },
+  {
+    "robotName": "Cyphix Immediate",
+    "slug": "cyphix-immediate",
+    "urls": {
+      "en": "https://botfounders.com/bots/cyphix-immediate",
+      "de": "https://botfounders.com/de/bots/cyphix-immediate",
+      "es": "https://botfounders.com/es/bots/cyphix-immediate",
+      "fr": "https://botfounders.com/fr/bots/cyphix-immediate",
+      "it": "https://botfounders.com/it/bots/cyphix-immediate",
+      "pl": "https://botfounders.com/pl/bots/cyphix-immediate",
+      "pt": "https://botfounders.com/pt/bots/cyphix-immediate",
+      "nl": "https://botfounders.com/nl/bots/cyphix-immediate"
+    }
+  },
+  {
+    "robotName": "ETH Cormax",
+    "slug": "eth-cormax",
+    "urls": {
+      "en": "https://botfounders.com/bots/eth-cormax",
+      "de": "https://botfounders.com/de/bots/eth-cormax",
+      "es": "https://botfounders.com/es/bots/eth-cormax",
+      "fr": "https://botfounders.com/fr/bots/eth-cormax",
+      "it": "https://botfounders.com/it/bots/eth-cormax",
+      "pl": "https://botfounders.com/pl/bots/eth-cormax",
+      "pt": "https://botfounders.com/pt/bots/eth-cormax",
+      "nl": "https://botfounders.com/nl/bots/eth-cormax"
+    }
+  },
+  {
+    "robotName": "Ethereum 200x Cormax",
+    "slug": "ethereum-200x-cormax",
+    "urls": {
+      "en": "https://botfounders.com/bots/ethereum-200x-cormax",
+      "de": "https://botfounders.com/de/bots/ethereum-200x-cormax",
+      "es": "https://botfounders.com/es/bots/ethereum-200x-cormax",
+      "fr": "https://botfounders.com/fr/bots/ethereum-200x-cormax",
+      "it": "https://botfounders.com/it/bots/ethereum-200x-cormax",
+      "pl": "https://botfounders.com/pl/bots/ethereum-200x-cormax",
+      "pt": "https://botfounders.com/pt/bots/ethereum-200x-cormax",
+      "nl": "https://botfounders.com/nl/bots/ethereum-200x-cormax"
+    }
+  },
+  {
+    "robotName": "Etherlux Bitcore",
+    "slug": "etherlux-bitcore",
+    "urls": {
+      "en": "https://botfounders.com/bots/etherlux-bitcore",
+      "de": "https://botfounders.com/de/bots/etherlux-bitcore",
+      "es": "https://botfounders.com/es/bots/etherlux-bitcore",
+      "fr": "https://botfounders.com/fr/bots/etherlux-bitcore",
+      "it": "https://botfounders.com/it/bots/etherlux-bitcore",
+      "pl": "https://botfounders.com/pl/bots/etherlux-bitcore",
+      "pt": "https://botfounders.com/pt/bots/etherlux-bitcore",
+      "nl": "https://botfounders.com/nl/bots/etherlux-bitcore"
+    }
+  },
+  {
+    "robotName": "Everix Peak",
+    "slug": "everix-peak",
+    "urls": {
+      "en": "https://botfounders.com/bots/everix-peak",
+      "de": "https://botfounders.com/de/bots/everix-peak",
+      "es": "https://botfounders.com/es/bots/everix-peak",
+      "fr": "https://botfounders.com/fr/bots/everix-peak",
+      "it": "https://botfounders.com/it/bots/everix-peak",
+      "pl": "https://botfounders.com/pl/bots/everix-peak",
+      "pt": "https://botfounders.com/pt/bots/everix-peak",
+      "nl": "https://botfounders.com/nl/bots/everix-peak"
+    }
+  },
+  {
+    "robotName": "Evolux Capital",
+    "slug": "evolux-capital",
+    "urls": {
+      "en": "https://botfounders.com/bots/evolux-capital",
+      "de": "https://botfounders.com/de/bots/evolux-capital",
+      "es": "https://botfounders.com/es/bots/evolux-capital",
+      "fr": "https://botfounders.com/fr/bots/evolux-capital",
+      "it": "https://botfounders.com/it/bots/evolux-capital",
+      "pl": "https://botfounders.com/pl/bots/evolux-capital",
+      "pt": "https://botfounders.com/pt/bots/evolux-capital",
+      "nl": "https://botfounders.com/nl/bots/evolux-capital"
+    }
+  },
+  {
+    "robotName": "Exponadex App",
+    "slug": "exponadex-app",
+    "urls": {
+      "en": "https://botfounders.com/bots/exponadex-app",
+      "de": "https://botfounders.com/de/bots/exponadex-app",
+      "es": "https://botfounders.com/es/bots/exponadex-app",
+      "fr": "https://botfounders.com/fr/bots/exponadex-app",
+      "it": "https://botfounders.com/it/bots/exponadex-app",
+      "pl": "https://botfounders.com/pl/bots/exponadex-app",
+      "pt": "https://botfounders.com/pt/bots/exponadex-app",
+      "nl": "https://botfounders.com/nl/bots/exponadex-app"
+    }
+  },
+  {
+    "robotName": "Fantom Sombrix",
+    "slug": "fantom-sombrix",
+    "urls": {
+      "en": "https://botfounders.com/bots/fantom-sombrix",
+      "de": "https://botfounders.com/de/bots/fantom-sombrix",
+      "es": "https://botfounders.com/es/bots/fantom-sombrix",
+      "fr": "https://botfounders.com/fr/bots/fantom-sombrix",
+      "it": "https://botfounders.com/it/bots/fantom-sombrix",
+      "pl": "https://botfounders.com/pl/bots/fantom-sombrix",
+      "pt": "https://botfounders.com/pt/bots/fantom-sombrix",
+      "nl": "https://botfounders.com/nl/bots/fantom-sombrix"
+    }
+  },
+  {
+    "robotName": "Fawnor Kezil",
+    "slug": "fawnor-kezil",
+    "urls": {
+      "en": "https://botfounders.com/bots/fawnor-kezil",
+      "de": "https://botfounders.com/de/bots/fawnor-kezil",
+      "es": "https://botfounders.com/es/bots/fawnor-kezil",
+      "fr": "https://botfounders.com/fr/bots/fawnor-kezil",
+      "it": "https://botfounders.com/it/bots/fawnor-kezil",
+      "pl": "https://botfounders.com/pl/bots/fawnor-kezil",
+      "pt": "https://botfounders.com/pt/bots/fawnor-kezil",
+      "nl": "https://botfounders.com/nl/bots/fawnor-kezil"
+    }
+  },
+  {
+    "robotName": "Feldzaxor",
+    "slug": "feldzaxor",
+    "urls": {
+      "en": "https://botfounders.com/bots/feldzaxor",
+      "de": "https://botfounders.com/de/bots/feldzaxor",
+      "es": "https://botfounders.com/es/bots/feldzaxor",
+      "fr": "https://botfounders.com/fr/bots/feldzaxor",
+      "it": "https://botfounders.com/it/bots/feldzaxor",
+      "pl": "https://botfounders.com/pl/bots/feldzaxor",
+      "pt": "https://botfounders.com/pt/bots/feldzaxor",
+      "nl": "https://botfounders.com/nl/bots/feldzaxor"
+    }
+  },
+  {
+    "robotName": "Feldzorb",
+    "slug": "feldzorb",
+    "urls": {
+      "en": "https://botfounders.com/bots/feldzorb",
+      "de": "https://botfounders.com/de/bots/feldzorb",
+      "es": "https://botfounders.com/es/bots/feldzorb",
+      "fr": "https://botfounders.com/fr/bots/feldzorb",
+      "it": "https://botfounders.com/it/bots/feldzorb",
+      "pl": "https://botfounders.com/pl/bots/feldzorb",
+      "pt": "https://botfounders.com/pt/bots/feldzorb",
+      "nl": "https://botfounders.com/nl/bots/feldzorb"
+    }
+  },
+  {
+    "robotName": "Finance Legend",
+    "slug": "finance-legend",
+    "urls": {
+      "en": "https://botfounders.com/bots/finance-legend",
+      "de": "https://botfounders.com/de/bots/finance-legend",
+      "es": "https://botfounders.com/es/bots/finance-legend",
+      "fr": "https://botfounders.com/fr/bots/finance-legend",
+      "it": "https://botfounders.com/it/bots/finance-legend",
+      "pl": "https://botfounders.com/pl/bots/finance-legend",
+      "pt": "https://botfounders.com/pt/bots/finance-legend",
+      "nl": "https://botfounders.com/nl/bots/finance-legend"
+    }
+  },
+  {
+    "robotName": "Finance Phantom",
+    "slug": "finance-phantom",
+    "urls": {
+      "en": "https://botfounders.com/bots/finance-phantom",
+      "de": "https://botfounders.com/de/bots/finance-phantom",
+      "es": "https://botfounders.com/es/bots/finance-phantom",
+      "fr": "https://botfounders.com/fr/bots/finance-phantom",
+      "it": "https://botfounders.com/it/bots/finance-phantom",
+      "pl": "https://botfounders.com/pl/bots/finance-phantom",
+      "pt": "https://botfounders.com/pt/bots/finance-phantom",
+      "nl": "https://botfounders.com/nl/bots/finance-phantom"
+    }
+  },
+  {
+    "robotName": "Finorexus",
+    "slug": "finorexus",
+    "urls": {
+      "en": "https://botfounders.com/bots/finorexus",
+      "de": "https://botfounders.com/de/bots/finorexus",
+      "es": "https://botfounders.com/es/bots/finorexus",
+      "fr": "https://botfounders.com/fr/bots/finorexus",
+      "it": "https://botfounders.com/it/bots/finorexus",
+      "pl": "https://botfounders.com/pl/bots/finorexus",
+      "pt": "https://botfounders.com/pt/bots/finorexus",
+      "nl": "https://botfounders.com/nl/bots/finorexus"
+    }
+  },
+  {
+    "robotName": "Geldrix Surge App",
+    "slug": "geldrix-surge-app",
+    "urls": {
+      "en": "https://botfounders.com/bots/geldrix-surge-app",
+      "de": "https://botfounders.com/de/bots/geldrix-surge-app",
+      "es": "https://botfounders.com/es/bots/geldrix-surge-app",
+      "fr": "https://botfounders.com/fr/bots/geldrix-surge-app",
+      "it": "https://botfounders.com/it/bots/geldrix-surge-app",
+      "pl": "https://botfounders.com/pl/bots/geldrix-surge-app",
+      "pt": "https://botfounders.com/pt/bots/geldrix-surge-app",
+      "nl": "https://botfounders.com/nl/bots/geldrix-surge-app"
+    }
+  },
+  {
+    "robotName": "GeldwetiX",
+    "slug": "geldwetix",
+    "urls": {
+      "en": "https://botfounders.com/bots/geldwetix",
+      "de": "https://botfounders.com/de/bots/geldwetix",
+      "es": "https://botfounders.com/es/bots/geldwetix",
+      "fr": "https://botfounders.com/fr/bots/geldwetix",
+      "it": "https://botfounders.com/it/bots/geldwetix",
+      "pl": "https://botfounders.com/pl/bots/geldwetix",
+      "pt": "https://botfounders.com/pt/bots/geldwetix",
+      "nl": "https://botfounders.com/nl/bots/geldwetix"
+    }
+  },
+  {
+    "robotName": "Geldzorex",
+    "slug": "geldzorex",
+    "urls": {
+      "en": "https://botfounders.com/bots/geldzorex",
+      "de": "https://botfounders.com/de/bots/geldzorex",
+      "es": "https://botfounders.com/es/bots/geldzorex",
+      "fr": "https://botfounders.com/fr/bots/geldzorex",
+      "it": "https://botfounders.com/it/bots/geldzorex",
+      "pl": "https://botfounders.com/pl/bots/geldzorex",
+      "pt": "https://botfounders.com/pt/bots/geldzorex",
+      "nl": "https://botfounders.com/nl/bots/geldzorex"
+    }
+  },
+  {
+    "robotName": "Immediate Atom",
+    "slug": "immediate-atom",
+    "urls": {
+      "en": "https://botfounders.com/bots/immediate-atom",
+      "de": "https://botfounders.com/de/bots/immediate-atom",
+      "es": "https://botfounders.com/es/bots/immediate-atom",
+      "fr": "https://botfounders.com/fr/bots/immediate-atom",
+      "it": "https://botfounders.com/it/bots/immediate-atom",
+      "pl": "https://botfounders.com/pl/bots/immediate-atom",
+      "pt": "https://botfounders.com/pt/bots/immediate-atom",
+      "nl": "https://botfounders.com/nl/bots/immediate-atom"
+    }
+  },
+  {
+    "robotName": "Immediate Intal",
+    "slug": "immediate-intal",
+    "urls": {
+      "en": "https://botfounders.com/bots/immediate-intal",
+      "de": "https://botfounders.com/de/bots/immediate-intal",
+      "es": "https://botfounders.com/es/bots/immediate-intal",
+      "fr": "https://botfounders.com/fr/bots/immediate-intal",
+      "it": "https://botfounders.com/it/bots/immediate-intal",
+      "pl": "https://botfounders.com/pl/bots/immediate-intal",
+      "pt": "https://botfounders.com/pt/bots/immediate-intal",
+      "nl": "https://botfounders.com/nl/bots/immediate-intal"
+    }
+  },
+  {
+    "robotName": "Immediate Sharpix",
+    "slug": "immediate-sharpix",
+    "urls": {
+      "en": "https://botfounders.com/bots/immediate-sharpix",
+      "de": "https://botfounders.com/de/bots/immediate-sharpix",
+      "es": "https://botfounders.com/es/bots/immediate-sharpix",
+      "fr": "https://botfounders.com/fr/bots/immediate-sharpix",
+      "it": "https://botfounders.com/it/bots/immediate-sharpix",
+      "pl": "https://botfounders.com/pl/bots/immediate-sharpix",
+      "pt": "https://botfounders.com/pt/bots/immediate-sharpix",
+      "nl": "https://botfounders.com/nl/bots/immediate-sharpix"
+    }
+  },
+  {
+    "robotName": "Immediate Sphere 2.0",
+    "slug": "immediate-sphere-2.0",
+    "urls": {
+      "en": "https://botfounders.com/bots/immediate-sphere-2.0",
+      "de": "https://botfounders.com/de/bots/immediate-sphere-2.0",
+      "es": "https://botfounders.com/es/bots/immediate-sphere-2.0",
+      "fr": "https://botfounders.com/fr/bots/immediate-sphere-2.0",
+      "it": "https://botfounders.com/it/bots/immediate-sphere-2.0",
+      "pl": "https://botfounders.com/pl/bots/immediate-sphere-2.0",
+      "pt": "https://botfounders.com/pt/bots/immediate-sphere-2.0",
+      "nl": "https://botfounders.com/nl/bots/immediate-sphere-2.0"
+    }
+  },
+  {
+    "robotName": "Immediate Tradent",
+    "slug": "immediate-tradent",
+    "urls": {
+      "en": "https://botfounders.com/bots/immediate-tradent",
+      "de": "https://botfounders.com/de/bots/immediate-tradent",
+      "es": "https://botfounders.com/es/bots/immediate-tradent",
+      "fr": "https://botfounders.com/fr/bots/immediate-tradent",
+      "it": "https://botfounders.com/it/bots/immediate-tradent",
+      "pl": "https://botfounders.com/pl/bots/immediate-tradent",
+      "pt": "https://botfounders.com/pt/bots/immediate-tradent",
+      "nl": "https://botfounders.com/nl/bots/immediate-tradent"
+    }
+  },
+  {
+    "robotName": "Immutable Afinitor",
+    "slug": "immutable-afinitor",
+    "urls": {
+      "en": "https://botfounders.com/bots/immutable-afinitor",
+      "de": "https://botfounders.com/de/bots/immutable-afinitor",
+      "es": "https://botfounders.com/es/bots/immutable-afinitor",
+      "fr": "https://botfounders.com/fr/bots/immutable-afinitor",
+      "it": "https://botfounders.com/it/bots/immutable-afinitor",
+      "pl": "https://botfounders.com/pl/bots/immutable-afinitor",
+      "pt": "https://botfounders.com/pt/bots/immutable-afinitor",
+      "nl": "https://botfounders.com/nl/bots/immutable-afinitor"
+    }
+  },
+  {
+    "robotName": "Instant Max AI",
+    "slug": "instant-max-ai",
+    "urls": {
+      "en": "https://botfounders.com/bots/instant-max-ai",
+      "de": "https://botfounders.com/de/bots/instant-max-ai",
+      "es": "https://botfounders.com/es/bots/instant-max-ai",
+      "fr": "https://botfounders.com/fr/bots/instant-max-ai",
+      "it": "https://botfounders.com/it/bots/instant-max-ai",
+      "pl": "https://botfounders.com/pl/bots/instant-max-ai",
+      "pt": "https://botfounders.com/pt/bots/instant-max-ai",
+      "nl": "https://botfounders.com/nl/bots/instant-max-ai"
+    }
+  },
+  {
+    "robotName": "Instant X9 Chantix",
+    "slug": "instant-x9-chantix",
+    "urls": {
+      "en": "https://botfounders.com/bots/instant-x9-chantix",
+      "de": "https://botfounders.com/de/bots/instant-x9-chantix",
+      "es": "https://botfounders.com/es/bots/instant-x9-chantix",
+      "fr": "https://botfounders.com/fr/bots/instant-x9-chantix",
+      "it": "https://botfounders.com/it/bots/instant-x9-chantix",
+      "pl": "https://botfounders.com/pl/bots/instant-x9-chantix",
+      "pt": "https://botfounders.com/pt/bots/instant-x9-chantix",
+      "nl": "https://botfounders.com/nl/bots/instant-x9-chantix"
+    }
+  },
+  {
+    "robotName": "Inversion Vetra",
+    "slug": "inversion-vetra",
+    "urls": {
+      "en": "https://botfounders.com/bots/inversion-vetra",
+      "de": "https://botfounders.com/de/bots/inversion-vetra",
+      "es": "https://botfounders.com/es/bots/inversion-vetra",
+      "fr": "https://botfounders.com/fr/bots/inversion-vetra",
+      "it": "https://botfounders.com/it/bots/inversion-vetra",
+      "pl": "https://botfounders.com/pl/bots/inversion-vetra",
+      "pt": "https://botfounders.com/pt/bots/inversion-vetra",
+      "nl": "https://botfounders.com/nl/bots/inversion-vetra"
+    }
+  },
+  {
+    "robotName": "Jybla Price",
+    "slug": "jybla-price",
+    "urls": {
+      "en": "https://botfounders.com/bots/jybla-price",
+      "de": "https://botfounders.com/de/bots/jybla-price",
+      "es": "https://botfounders.com/es/bots/jybla-price",
+      "fr": "https://botfounders.com/fr/bots/jybla-price",
+      "it": "https://botfounders.com/it/bots/jybla-price",
+      "pl": "https://botfounders.com/pl/bots/jybla-price",
+      "pt": "https://botfounders.com/pt/bots/jybla-price",
+      "nl": "https://botfounders.com/nl/bots/jybla-price"
+    }
+  },
+  {
+    "robotName": "Klopirakon",
+    "slug": "klopirakon",
+    "urls": {
+      "en": "https://botfounders.com/bots/klopirakon",
+      "de": "https://botfounders.com/de/bots/klopirakon",
+      "es": "https://botfounders.com/es/bots/klopirakon",
+      "fr": "https://botfounders.com/fr/bots/klopirakon",
+      "it": "https://botfounders.com/it/bots/klopirakon",
+      "pl": "https://botfounders.com/pl/bots/klopirakon",
+      "pt": "https://botfounders.com/pt/bots/klopirakon",
+      "nl": "https://botfounders.com/nl/bots/klopirakon"
+    }
+  },
+  {
+    "robotName": "Kryptavix Jordan",
+    "slug": "kryptavix-jordan",
+    "urls": {
+      "en": "https://botfounders.com/bots/kryptavix-jordan",
+      "de": "https://botfounders.com/de/bots/kryptavix-jordan",
+      "es": "https://botfounders.com/es/bots/kryptavix-jordan",
+      "fr": "https://botfounders.com/fr/bots/kryptavix-jordan",
+      "it": "https://botfounders.com/it/bots/kryptavix-jordan",
+      "pl": "https://botfounders.com/pl/bots/kryptavix-jordan",
+      "pt": "https://botfounders.com/pt/bots/kryptavix-jordan",
+      "nl": "https://botfounders.com/nl/bots/kryptavix-jordan"
+    }
+  },
+  {
+    "robotName": "Lavande Coinpulse",
+    "slug": "lavande-coinpulse",
+    "urls": {
+      "en": "https://botfounders.com/bots/lavande-coinpulse",
+      "de": "https://botfounders.com/de/bots/lavande-coinpulse",
+      "es": "https://botfounders.com/es/bots/lavande-coinpulse",
+      "fr": "https://botfounders.com/fr/bots/lavande-coinpulse",
+      "it": "https://botfounders.com/it/bots/lavande-coinpulse",
+      "pl": "https://botfounders.com/pl/bots/lavande-coinpulse",
+      "pt": "https://botfounders.com/pt/bots/lavande-coinpulse",
+      "nl": "https://botfounders.com/nl/bots/lavande-coinpulse"
+    }
+  },
+  {
+    "robotName": "Luxver Blitz AI",
+    "slug": "luxver-blitz-ai",
+    "urls": {
+      "en": "https://botfounders.com/bots/luxver-blitz-ai",
+      "de": "https://botfounders.com/de/bots/luxver-blitz-ai",
+      "es": "https://botfounders.com/es/bots/luxver-blitz-ai",
+      "fr": "https://botfounders.com/fr/bots/luxver-blitz-ai",
+      "it": "https://botfounders.com/it/bots/luxver-blitz-ai",
+      "pl": "https://botfounders.com/pl/bots/luxver-blitz-ai",
+      "pt": "https://botfounders.com/pt/bots/luxver-blitz-ai",
+      "nl": "https://botfounders.com/nl/bots/luxver-blitz-ai"
+    }
+  },
+  {
+    "robotName": "Oblirexget",
+    "slug": "oblirexget",
+    "urls": {
+      "en": "https://botfounders.com/bots/oblirexget",
+      "de": "https://botfounders.com/de/bots/oblirexget",
+      "es": "https://botfounders.com/es/bots/oblirexget",
+      "fr": "https://botfounders.com/fr/bots/oblirexget",
+      "it": "https://botfounders.com/it/bots/oblirexget",
+      "pl": "https://botfounders.com/pl/bots/oblirexget",
+      "pt": "https://botfounders.com/pt/bots/oblirexget",
+      "nl": "https://botfounders.com/nl/bots/oblirexget"
+    }
+  },
+  {
+    "robotName": "Portefeuille Vexo",
+    "slug": "portefeuille-vexo",
+    "urls": {
+      "en": "https://botfounders.com/bots/portefeuille-vexo",
+      "de": "https://botfounders.com/de/bots/portefeuille-vexo",
+      "es": "https://botfounders.com/es/bots/portefeuille-vexo",
+      "fr": "https://botfounders.com/fr/bots/portefeuille-vexo",
+      "it": "https://botfounders.com/it/bots/portefeuille-vexo",
+      "pl": "https://botfounders.com/pl/bots/portefeuille-vexo",
+      "pt": "https://botfounders.com/pt/bots/portefeuille-vexo",
+      "nl": "https://botfounders.com/nl/bots/portefeuille-vexo"
+    }
+  },
+  {
+    "robotName": "Prime Coinflow",
+    "slug": "prime-coinflow",
+    "urls": {
+      "en": "https://botfounders.com/bots/prime-coinflow",
+      "de": "https://botfounders.com/de/bots/prime-coinflow",
+      "es": "https://botfounders.com/es/bots/prime-coinflow",
+      "fr": "https://botfounders.com/fr/bots/prime-coinflow",
+      "it": "https://botfounders.com/it/bots/prime-coinflow",
+      "pl": "https://botfounders.com/pl/bots/prime-coinflow",
+      "pt": "https://botfounders.com/pt/bots/prime-coinflow",
+      "nl": "https://botfounders.com/nl/bots/prime-coinflow"
+    }
+  },
+  {
+    "robotName": "ProfitKernAI",
+    "slug": "profitkernai",
+    "urls": {
+      "en": "https://botfounders.com/bots/profitkernai",
+      "de": "https://botfounders.com/de/bots/profitkernai",
+      "es": "https://botfounders.com/es/bots/profitkernai",
+      "fr": "https://botfounders.com/fr/bots/profitkernai",
+      "it": "https://botfounders.com/it/bots/profitkernai",
+      "pl": "https://botfounders.com/pl/bots/profitkernai",
+      "pt": "https://botfounders.com/pt/bots/profitkernai",
+      "nl": "https://botfounders.com/nl/bots/profitkernai"
+    }
+  },
+  {
+    "robotName": "Puls Bitcoin",
+    "slug": "puls-bitcoin",
+    "urls": {
+      "en": "https://botfounders.com/bots/puls-bitcoin",
+      "de": "https://botfounders.com/de/bots/puls-bitcoin",
+      "es": "https://botfounders.com/es/bots/puls-bitcoin",
+      "fr": "https://botfounders.com/fr/bots/puls-bitcoin",
+      "it": "https://botfounders.com/it/bots/puls-bitcoin",
+      "pl": "https://botfounders.com/pl/bots/puls-bitcoin",
+      "pt": "https://botfounders.com/pt/bots/puls-bitcoin",
+      "nl": "https://botfounders.com/nl/bots/puls-bitcoin"
+    }
+  },
+  {
+    "robotName": "QuantumX",
+    "slug": "quantumx",
+    "urls": {
+      "en": "https://botfounders.com/bots/quantumx",
+      "de": "https://botfounders.com/de/bots/quantumx",
+      "es": "https://botfounders.com/es/bots/quantumx",
+      "fr": "https://botfounders.com/fr/bots/quantumx",
+      "it": "https://botfounders.com/it/bots/quantumx",
+      "pl": "https://botfounders.com/pl/bots/quantumx",
+      "pt": "https://botfounders.com/pt/bots/quantumx",
+      "nl": "https://botfounders.com/nl/bots/quantumx"
+    }
+  },
+  {
+    "robotName": "QubiQuant Vision",
+    "slug": "qubiquant-vision",
+    "urls": {
+      "en": "https://botfounders.com/bots/qubiquant-vision",
+      "de": "https://botfounders.com/de/bots/qubiquant-vision",
+      "es": "https://botfounders.com/es/bots/qubiquant-vision",
+      "fr": "https://botfounders.com/fr/bots/qubiquant-vision",
+      "it": "https://botfounders.com/it/bots/qubiquant-vision",
+      "pl": "https://botfounders.com/pl/bots/qubiquant-vision",
+      "pt": "https://botfounders.com/pt/bots/qubiquant-vision",
+      "nl": "https://botfounders.com/nl/bots/qubiquant-vision"
+    }
+  },
+  {
+    "robotName": "RedCoreCanada",
+    "slug": "redcorecanada",
+    "urls": {
+      "en": "https://botfounders.com/bots/redcorecanada",
+      "de": "https://botfounders.com/de/bots/redcorecanada",
+      "es": "https://botfounders.com/es/bots/redcorecanada",
+      "fr": "https://botfounders.com/fr/bots/redcorecanada",
+      "it": "https://botfounders.com/it/bots/redcorecanada",
+      "pl": "https://botfounders.com/pl/bots/redcorecanada",
+      "pt": "https://botfounders.com/pt/bots/redcorecanada",
+      "nl": "https://botfounders.com/nl/bots/redcorecanada"
+    }
+  },
+  {
+    "robotName": "Reichzorb",
+    "slug": "reichzorb",
+    "urls": {
+      "en": "https://botfounders.com/bots/reichzorb",
+      "de": "https://botfounders.com/de/bots/reichzorb",
+      "es": "https://botfounders.com/es/bots/reichzorb",
+      "fr": "https://botfounders.com/fr/bots/reichzorb",
+      "it": "https://botfounders.com/it/bots/reichzorb",
+      "pl": "https://botfounders.com/pl/bots/reichzorb",
+      "pt": "https://botfounders.com/pt/bots/reichzorb",
+      "nl": "https://botfounders.com/nl/bots/reichzorb"
+    }
+  },
+  {
+    "robotName": "Satoshi Myrion",
+    "slug": "satoshi-myrion",
+    "urls": {
+      "en": "https://botfounders.com/bots/satoshi-myrion",
+      "de": "https://botfounders.com/de/bots/satoshi-myrion",
+      "es": "https://botfounders.com/es/bots/satoshi-myrion",
+      "fr": "https://botfounders.com/fr/bots/satoshi-myrion",
+      "it": "https://botfounders.com/it/bots/satoshi-myrion",
+      "pl": "https://botfounders.com/pl/bots/satoshi-myrion",
+      "pt": "https://botfounders.com/pt/bots/satoshi-myrion",
+      "nl": "https://botfounders.com/nl/bots/satoshi-myrion"
+    }
+  },
+  {
+    "robotName": "Solstice Riskler",
+    "slug": "solstice-riskler",
+    "urls": {
+      "en": "https://botfounders.com/bots/solstice-riskler",
+      "de": "https://botfounders.com/de/bots/solstice-riskler",
+      "es": "https://botfounders.com/es/bots/solstice-riskler",
+      "fr": "https://botfounders.com/fr/bots/solstice-riskler",
+      "it": "https://botfounders.com/it/bots/solstice-riskler",
+      "pl": "https://botfounders.com/pl/bots/solstice-riskler",
+      "pt": "https://botfounders.com/pt/bots/solstice-riskler",
+      "nl": "https://botfounders.com/nl/bots/solstice-riskler"
+    }
+  },
+  {
+    "robotName": "Spot 11x Sanorex",
+    "slug": "spot-11x-sanorex",
+    "urls": {
+      "en": "https://botfounders.com/bots/spot-11x-sanorex",
+      "de": "https://botfounders.com/de/bots/spot-11x-sanorex",
+      "es": "https://botfounders.com/es/bots/spot-11x-sanorex",
+      "fr": "https://botfounders.com/fr/bots/spot-11x-sanorex",
+      "it": "https://botfounders.com/it/bots/spot-11x-sanorex",
+      "pl": "https://botfounders.com/pl/bots/spot-11x-sanorex",
+      "pt": "https://botfounders.com/pt/bots/spot-11x-sanorex",
+      "nl": "https://botfounders.com/nl/bots/spot-11x-sanorex"
+    }
+  },
+  {
+    "robotName": "Switch Hiprex 800x",
+    "slug": "switch-hiprex-800x",
+    "urls": {
+      "en": "https://botfounders.com/bots/switch-hiprex-800x",
+      "de": "https://botfounders.com/de/bots/switch-hiprex-800x",
+      "es": "https://botfounders.com/es/bots/switch-hiprex-800x",
+      "fr": "https://botfounders.com/fr/bots/switch-hiprex-800x",
+      "it": "https://botfounders.com/it/bots/switch-hiprex-800x",
+      "pl": "https://botfounders.com/pl/bots/switch-hiprex-800x",
+      "pt": "https://botfounders.com/pt/bots/switch-hiprex-800x",
+      "nl": "https://botfounders.com/nl/bots/switch-hiprex-800x"
+    }
+  },
+  {
+    "robotName": "Talonix Sphere",
+    "slug": "talonix-sphere",
+    "urls": {
+      "en": "https://botfounders.com/bots/talonix-sphere",
+      "de": "https://botfounders.com/de/bots/talonix-sphere",
+      "es": "https://botfounders.com/es/bots/talonix-sphere",
+      "fr": "https://botfounders.com/fr/bots/talonix-sphere",
+      "it": "https://botfounders.com/it/bots/talonix-sphere",
+      "pl": "https://botfounders.com/pl/bots/talonix-sphere",
+      "pt": "https://botfounders.com/pt/bots/talonix-sphere",
+      "nl": "https://botfounders.com/nl/bots/talonix-sphere"
+    }
+  },
+  {
+    "robotName": "Trade Folex 6x",
+    "slug": "trade-folex-6x",
+    "urls": {
+      "en": "https://botfounders.com/bots/trade-folex-6x",
+      "de": "https://botfounders.com/de/bots/trade-folex-6x",
+      "es": "https://botfounders.com/es/bots/trade-folex-6x",
+      "fr": "https://botfounders.com/fr/bots/trade-folex-6x",
+      "it": "https://botfounders.com/it/bots/trade-folex-6x",
+      "pl": "https://botfounders.com/pl/bots/trade-folex-6x",
+      "pt": "https://botfounders.com/pt/bots/trade-folex-6x",
+      "nl": "https://botfounders.com/nl/bots/trade-folex-6x"
+    }
+  },
+  {
+    "robotName": "Velora Betrix",
+    "slug": "velora-betrix",
+    "urls": {
+      "en": "https://botfounders.com/bots/velora-betrix",
+      "de": "https://botfounders.com/de/bots/velora-betrix",
+      "es": "https://botfounders.com/es/bots/velora-betrix",
+      "fr": "https://botfounders.com/fr/bots/velora-betrix",
+      "it": "https://botfounders.com/it/bots/velora-betrix",
+      "pl": "https://botfounders.com/pl/bots/velora-betrix",
+      "pt": "https://botfounders.com/pt/bots/velora-betrix",
+      "nl": "https://botfounders.com/nl/bots/velora-betrix"
+    }
+  },
+  {
+    "robotName": "Vexlo Yield",
+    "slug": "vexlo-yield",
+    "urls": {
+      "en": "https://botfounders.com/bots/vexlo-yield",
+      "de": "https://botfounders.com/de/bots/vexlo-yield",
+      "es": "https://botfounders.com/es/bots/vexlo-yield",
+      "fr": "https://botfounders.com/fr/bots/vexlo-yield",
+      "it": "https://botfounders.com/it/bots/vexlo-yield",
+      "pl": "https://botfounders.com/pl/bots/vexlo-yield",
+      "pt": "https://botfounders.com/pt/bots/vexlo-yield",
+      "nl": "https://botfounders.com/nl/bots/vexlo-yield"
+    }
+  },
+  {
+    "robotName": "Wealth Phantom",
+    "slug": "wealth-phantom",
+    "urls": {
+      "en": "https://botfounders.com/bots/wealth-phantom",
+      "de": "https://botfounders.com/de/bots/wealth-phantom",
+      "es": "https://botfounders.com/es/bots/wealth-phantom",
+      "fr": "https://botfounders.com/fr/bots/wealth-phantom",
+      "it": "https://botfounders.com/it/bots/wealth-phantom",
+      "pl": "https://botfounders.com/pl/bots/wealth-phantom",
+      "pt": "https://botfounders.com/pt/bots/wealth-phantom",
+      "nl": "https://botfounders.com/nl/bots/wealth-phantom"
+    }
+  },
+  {
+    "robotName": "Wertoniax",
+    "slug": "wertoniax",
+    "urls": {
+      "en": "https://botfounders.com/bots/wertoniax",
+      "de": "https://botfounders.com/de/bots/wertoniax",
+      "es": "https://botfounders.com/es/bots/wertoniax",
+      "fr": "https://botfounders.com/fr/bots/wertoniax",
+      "it": "https://botfounders.com/it/bots/wertoniax",
+      "pl": "https://botfounders.com/pl/bots/wertoniax",
+      "pt": "https://botfounders.com/pt/bots/wertoniax",
+      "nl": "https://botfounders.com/nl/bots/wertoniax"
+    }
+  },
+  {
+    "robotName": "Zeltix Edge",
+    "slug": "zeltix-edge",
+    "urls": {
+      "en": "https://botfounders.com/bots/zeltix-edge",
+      "de": "https://botfounders.com/de/bots/zeltix-edge",
+      "es": "https://botfounders.com/es/bots/zeltix-edge",
+      "fr": "https://botfounders.com/fr/bots/zeltix-edge",
+      "it": "https://botfounders.com/it/bots/zeltix-edge",
+      "pl": "https://botfounders.com/pl/bots/zeltix-edge",
+      "pt": "https://botfounders.com/pt/bots/zeltix-edge",
+      "nl": "https://botfounders.com/nl/bots/zeltix-edge"
+    }
+  },
+  {
+    "robotName": "Zondratex",
+    "slug": "zondratex",
+    "urls": {
+      "en": "https://botfounders.com/bots/zondratex",
+      "de": "https://botfounders.com/de/bots/zondratex",
+      "es": "https://botfounders.com/es/bots/zondratex",
+      "fr": "https://botfounders.com/fr/bots/zondratex",
+      "it": "https://botfounders.com/it/bots/zondratex",
+      "pl": "https://botfounders.com/pl/bots/zondratex",
+      "pt": "https://botfounders.com/pt/bots/zondratex",
+      "nl": "https://botfounders.com/nl/bots/zondratex"
+    }
+  },
+  {
+    "robotName": "AI Arbitrix",
+    "slug": "ai-arbitrix",
+    "urls": {
+      "en": "https://botfounders.com/bots/ai-arbitrix",
+      "de": "https://botfounders.com/de/bots/ai-arbitrix",
+      "es": "https://botfounders.com/es/bots/ai-arbitrix",
+      "fr": "https://botfounders.com/fr/bots/ai-arbitrix",
+      "it": "https://botfounders.com/it/bots/ai-arbitrix",
+      "pl": "https://botfounders.com/pl/bots/ai-arbitrix",
+      "pt": "https://botfounders.com/pt/bots/ai-arbitrix",
+      "nl": "https://botfounders.com/nl/bots/ai-arbitrix"
+    }
+  },
+  {
+    "robotName": "AI Talent GPT",
+    "slug": "ai-talent-gpt",
+    "urls": {
+      "en": "https://botfounders.com/bots/ai-talent-gpt",
+      "de": "https://botfounders.com/de/bots/ai-talent-gpt",
+      "es": "https://botfounders.com/es/bots/ai-talent-gpt",
+      "fr": "https://botfounders.com/fr/bots/ai-talent-gpt",
+      "it": "https://botfounders.com/it/bots/ai-talent-gpt",
+      "pl": "https://botfounders.com/pl/bots/ai-talent-gpt",
+      "pt": "https://botfounders.com/pt/bots/ai-talent-gpt",
+      "nl": "https://botfounders.com/nl/bots/ai-talent-gpt"
+    }
+  },
+  {
+    "robotName": "Alpha AI",
+    "slug": "alpha-ai",
+    "urls": {
+      "en": "https://botfounders.com/bots/alpha-ai",
+      "de": "https://botfounders.com/de/bots/alpha-ai",
+      "es": "https://botfounders.com/es/bots/alpha-ai",
+      "fr": "https://botfounders.com/fr/bots/alpha-ai",
+      "it": "https://botfounders.com/it/bots/alpha-ai",
+      "pl": "https://botfounders.com/pl/bots/alpha-ai",
+      "pt": "https://botfounders.com/pt/bots/alpha-ai",
+      "nl": "https://botfounders.com/nl/bots/alpha-ai"
+    }
+  },
+  {
+    "robotName": "Altex Momentum",
+    "slug": "altex-momentum",
+    "urls": {
+      "en": "https://botfounders.com/bots/altex-momentum",
+      "de": "https://botfounders.com/de/bots/altex-momentum",
+      "es": "https://botfounders.com/es/bots/altex-momentum",
+      "fr": "https://botfounders.com/fr/bots/altex-momentum",
+      "it": "https://botfounders.com/it/bots/altex-momentum",
+      "pl": "https://botfounders.com/pl/bots/altex-momentum",
+      "pt": "https://botfounders.com/pt/bots/altex-momentum",
+      "nl": "https://botfounders.com/nl/bots/altex-momentum"
+    }
+  },
+  {
+    "robotName": "Angrumbit",
+    "slug": "angrumbit",
+    "urls": {
+      "en": "https://botfounders.com/bots/angrumbit",
+      "de": "https://botfounders.com/de/bots/angrumbit",
+      "es": "https://botfounders.com/es/bots/angrumbit",
+      "fr": "https://botfounders.com/fr/bots/angrumbit",
+      "it": "https://botfounders.com/it/bots/angrumbit",
+      "pl": "https://botfounders.com/pl/bots/angrumbit",
+      "pt": "https://botfounders.com/pt/bots/angrumbit",
+      "nl": "https://botfounders.com/nl/bots/angrumbit"
+    }
+  },
+  {
+    "robotName": "Apex Trade",
+    "slug": "apex-trade",
+    "urls": {
+      "en": "https://botfounders.com/bots/apex-trade",
+      "de": "https://botfounders.com/de/bots/apex-trade",
+      "es": "https://botfounders.com/es/bots/apex-trade",
+      "fr": "https://botfounders.com/fr/bots/apex-trade",
+      "it": "https://botfounders.com/it/bots/apex-trade",
+      "pl": "https://botfounders.com/pl/bots/apex-trade",
+      "pt": "https://botfounders.com/pt/bots/apex-trade",
+      "nl": "https://botfounders.com/nl/bots/apex-trade"
+    }
+  },
+  {
+    "robotName": "Arbionis",
+    "slug": "arbionis",
+    "urls": {
+      "en": "https://botfounders.com/bots/arbionis",
+      "de": "https://botfounders.com/de/bots/arbionis",
+      "es": "https://botfounders.com/es/bots/arbionis",
+      "fr": "https://botfounders.com/fr/bots/arbionis",
+      "it": "https://botfounders.com/it/bots/arbionis",
+      "pl": "https://botfounders.com/pl/bots/arbionis",
+      "pt": "https://botfounders.com/pt/bots/arbionis",
+      "nl": "https://botfounders.com/nl/bots/arbionis"
+    }
+  },
+  {
+    "robotName": "Arbiquant",
+    "slug": "arbiquant",
+    "urls": {
+      "en": "https://botfounders.com/bots/arbiquant",
+      "de": "https://botfounders.com/de/bots/arbiquant",
+      "es": "https://botfounders.com/es/bots/arbiquant",
+      "fr": "https://botfounders.com/fr/bots/arbiquant",
+      "it": "https://botfounders.com/it/bots/arbiquant",
+      "pl": "https://botfounders.com/pl/bots/arbiquant",
+      "pt": "https://botfounders.com/pt/bots/arbiquant",
+      "nl": "https://botfounders.com/nl/bots/arbiquant"
+    }
+  },
+  {
+    "robotName": "Arbitrix Edge",
+    "slug": "arbitrix-edge",
+    "urls": {
+      "en": "https://botfounders.com/bots/arbitrix-edge",
+      "de": "https://botfounders.com/de/bots/arbitrix-edge",
+      "es": "https://botfounders.com/es/bots/arbitrix-edge",
+      "fr": "https://botfounders.com/fr/bots/arbitrix-edge",
+      "it": "https://botfounders.com/it/bots/arbitrix-edge",
+      "pl": "https://botfounders.com/pl/bots/arbitrix-edge",
+      "pt": "https://botfounders.com/pt/bots/arbitrix-edge",
+      "nl": "https://botfounders.com/nl/bots/arbitrix-edge"
+    }
+  },
+  {
+    "robotName": "Argentis Grid GPT",
+    "slug": "argentis-grid-gpt",
+    "urls": {
+      "en": "https://botfounders.com/bots/argentis-grid-gpt",
+      "de": "https://botfounders.com/de/bots/argentis-grid-gpt",
+      "es": "https://botfounders.com/es/bots/argentis-grid-gpt",
+      "fr": "https://botfounders.com/fr/bots/argentis-grid-gpt",
+      "it": "https://botfounders.com/it/bots/argentis-grid-gpt",
+      "pl": "https://botfounders.com/pl/bots/argentis-grid-gpt",
+      "pt": "https://botfounders.com/pt/bots/argentis-grid-gpt",
+      "nl": "https://botfounders.com/nl/bots/argentis-grid-gpt"
+    }
+  },
+  {
+    "robotName": "Azorilix",
+    "slug": "azorilix",
+    "urls": {
+      "en": "https://botfounders.com/bots/azorilix",
+      "de": "https://botfounders.com/de/bots/azorilix",
+      "es": "https://botfounders.com/es/bots/azorilix",
+      "fr": "https://botfounders.com/fr/bots/azorilix",
+      "it": "https://botfounders.com/it/bots/azorilix",
+      "pl": "https://botfounders.com/pl/bots/azorilix",
+      "pt": "https://botfounders.com/pt/bots/azorilix",
+      "nl": "https://botfounders.com/nl/bots/azorilix"
+    }
+  },
+  {
+    "robotName": "Belonix Trader",
+    "slug": "belonix-trader",
+    "urls": {
+      "en": "https://botfounders.com/bots/belonix-trader",
+      "de": "https://botfounders.com/de/bots/belonix-trader",
+      "es": "https://botfounders.com/es/bots/belonix-trader",
+      "fr": "https://botfounders.com/fr/bots/belonix-trader",
+      "it": "https://botfounders.com/it/bots/belonix-trader",
+      "pl": "https://botfounders.com/pl/bots/belonix-trader",
+      "pt": "https://botfounders.com/pt/bots/belonix-trader",
+      "nl": "https://botfounders.com/nl/bots/belonix-trader"
+    }
+  },
+  {
+    "robotName": "Berandvex",
+    "slug": "berandvex",
+    "urls": {
+      "en": "https://botfounders.com/bots/berandvex",
+      "de": "https://botfounders.com/de/bots/berandvex",
+      "es": "https://botfounders.com/es/bots/berandvex",
+      "fr": "https://botfounders.com/fr/bots/berandvex",
+      "it": "https://botfounders.com/it/bots/berandvex",
+      "pl": "https://botfounders.com/pl/bots/berandvex",
+      "pt": "https://botfounders.com/pt/bots/berandvex",
+      "nl": "https://botfounders.com/nl/bots/berandvex"
+    }
+  },
+  {
+    "robotName": "Bit 10 ePrex",
+    "slug": "bit-10-eprex",
+    "urls": {
+      "en": "https://botfounders.com/bots/bit-10-eprex",
+      "de": "https://botfounders.com/de/bots/bit-10-eprex",
+      "es": "https://botfounders.com/es/bots/bit-10-eprex",
+      "fr": "https://botfounders.com/fr/bots/bit-10-eprex",
+      "it": "https://botfounders.com/it/bots/bit-10-eprex",
+      "pl": "https://botfounders.com/pl/bots/bit-10-eprex",
+      "pt": "https://botfounders.com/pt/bots/bit-10-eprex",
+      "nl": "https://botfounders.com/nl/bots/bit-10-eprex"
+    }
+  },
+  {
+    "robotName": "BitBolt",
+    "slug": "bitbolt",
+    "urls": {
+      "en": "https://botfounders.com/bots/bitbolt",
+      "de": "https://botfounders.com/de/bots/bitbolt",
+      "es": "https://botfounders.com/es/bots/bitbolt",
+      "fr": "https://botfounders.com/fr/bots/bitbolt",
+      "it": "https://botfounders.com/it/bots/bitbolt",
+      "pl": "https://botfounders.com/pl/bots/bitbolt",
+      "pt": "https://botfounders.com/pt/bots/bitbolt",
+      "nl": "https://botfounders.com/nl/bots/bitbolt"
+    }
+  },
+  {
+    "robotName": "Bitcode Method",
+    "slug": "bitcode-method",
+    "urls": {
+      "en": "https://botfounders.com/bots/bitcode-method",
+      "de": "https://botfounders.com/de/bots/bitcode-method",
+      "es": "https://botfounders.com/es/bots/bitcode-method",
+      "fr": "https://botfounders.com/fr/bots/bitcode-method",
+      "it": "https://botfounders.com/it/bots/bitcode-method",
+      "pl": "https://botfounders.com/pl/bots/bitcode-method",
+      "pt": "https://botfounders.com/pt/bots/bitcode-method",
+      "nl": "https://botfounders.com/nl/bots/bitcode-method"
+    }
+  },
+  {
+    "robotName": "Bitcoin Apex",
+    "slug": "bitcoin-apex",
+    "urls": {
+      "en": "https://botfounders.com/bots/bitcoin-apex",
+      "de": "https://botfounders.com/de/bots/bitcoin-apex",
+      "es": "https://botfounders.com/es/bots/bitcoin-apex",
+      "fr": "https://botfounders.com/fr/bots/bitcoin-apex",
+      "it": "https://botfounders.com/it/bots/bitcoin-apex",
+      "pl": "https://botfounders.com/pl/bots/bitcoin-apex",
+      "pt": "https://botfounders.com/pt/bots/bitcoin-apex",
+      "nl": "https://botfounders.com/nl/bots/bitcoin-apex"
+    }
+  },
+  {
+    "robotName": "Bitcoin Bank Breaker",
+    "slug": "bitcoin-bank-breaker",
+    "urls": {
+      "en": "https://botfounders.com/bots/bitcoin-bank-breaker",
+      "de": "https://botfounders.com/de/bots/bitcoin-bank-breaker",
+      "es": "https://botfounders.com/es/bots/bitcoin-bank-breaker",
+      "fr": "https://botfounders.com/fr/bots/bitcoin-bank-breaker",
+      "it": "https://botfounders.com/it/bots/bitcoin-bank-breaker",
+      "pl": "https://botfounders.com/pl/bots/bitcoin-bank-breaker",
+      "pt": "https://botfounders.com/pt/bots/bitcoin-bank-breaker",
+      "nl": "https://botfounders.com/nl/bots/bitcoin-bank-breaker"
+    }
+  },
+  {
+    "robotName": "Bitcoin Billionaire",
+    "slug": "bitcoin-billionaire",
+    "urls": {
+      "en": "https://botfounders.com/bots/bitcoin-billionaire",
+      "de": "https://botfounders.com/de/bots/bitcoin-billionaire",
+      "es": "https://botfounders.com/es/bots/bitcoin-billionaire",
+      "fr": "https://botfounders.com/fr/bots/bitcoin-billionaire",
+      "it": "https://botfounders.com/it/bots/bitcoin-billionaire",
+      "pl": "https://botfounders.com/pl/bots/bitcoin-billionaire",
+      "pt": "https://botfounders.com/pt/bots/bitcoin-billionaire",
+      "nl": "https://botfounders.com/nl/bots/bitcoin-billionaire"
+    }
+  },
+  {
+    "robotName": "Bitcoin Prism Pro",
+    "slug": "bitcoin-prism-pro",
+    "urls": {
+      "en": "https://botfounders.com/bots/bitcoin-prism-pro",
+      "de": "https://botfounders.com/de/bots/bitcoin-prism-pro",
+      "es": "https://botfounders.com/es/bots/bitcoin-prism-pro",
+      "fr": "https://botfounders.com/fr/bots/bitcoin-prism-pro",
+      "it": "https://botfounders.com/it/bots/bitcoin-prism-pro",
+      "pl": "https://botfounders.com/pl/bots/bitcoin-prism-pro",
+      "pt": "https://botfounders.com/pt/bots/bitcoin-prism-pro",
+      "nl": "https://botfounders.com/nl/bots/bitcoin-prism-pro"
+    }
+  },
+  {
+    "robotName": "Bitcore Peak",
+    "slug": "bitcore-peak",
+    "urls": {
+      "en": "https://botfounders.com/bots/bitcore-peak",
+      "de": "https://botfounders.com/de/bots/bitcore-peak",
+      "es": "https://botfounders.com/es/bots/bitcore-peak",
+      "fr": "https://botfounders.com/fr/bots/bitcore-peak",
+      "it": "https://botfounders.com/it/bots/bitcore-peak",
+      "pl": "https://botfounders.com/pl/bots/bitcore-peak",
+      "pt": "https://botfounders.com/pt/bots/bitcore-peak",
+      "nl": "https://botfounders.com/nl/bots/bitcore-peak"
+    }
+  },
+  {
+    "robotName": "Bitcoin X",
+    "slug": "bitcoin-x",
+    "urls": {
+      "en": "https://botfounders.com/bots/bitcoin-x",
+      "de": "https://botfounders.com/de/bots/bitcoin-x",
+      "es": "https://botfounders.com/es/bots/bitcoin-x",
+      "fr": "https://botfounders.com/fr/bots/bitcoin-x",
+      "it": "https://botfounders.com/it/bots/bitcoin-x",
+      "pl": "https://botfounders.com/pl/bots/bitcoin-x",
+      "pt": "https://botfounders.com/pt/bots/bitcoin-x",
+      "nl": "https://botfounders.com/nl/bots/bitcoin-x"
+    }
+  },
+  {
+    "robotName": "Bitlax Lab",
+    "slug": "bitlax-lab",
+    "urls": {
+      "en": "https://botfounders.com/bots/bitlax-lab",
+      "de": "https://botfounders.com/de/bots/bitlax-lab",
+      "es": "https://botfounders.com/es/bots/bitlax-lab",
+      "fr": "https://botfounders.com/fr/bots/bitlax-lab",
+      "it": "https://botfounders.com/it/bots/bitlax-lab",
+      "pl": "https://botfounders.com/pl/bots/bitlax-lab",
+      "pt": "https://botfounders.com/pt/bots/bitlax-lab",
+      "nl": "https://botfounders.com/nl/bots/bitlax-lab"
+    }
+  },
+  {
+    "robotName": "Bitlax Smart AI",
+    "slug": "bitlax-smart-ai",
+    "urls": {
+      "en": "https://botfounders.com/bots/bitlax-smart-ai",
+      "de": "https://botfounders.com/de/bots/bitlax-smart-ai",
+      "es": "https://botfounders.com/es/bots/bitlax-smart-ai",
+      "fr": "https://botfounders.com/fr/bots/bitlax-smart-ai",
+      "it": "https://botfounders.com/it/bots/bitlax-smart-ai",
+      "pl": "https://botfounders.com/pl/bots/bitlax-smart-ai",
+      "pt": "https://botfounders.com/pt/bots/bitlax-smart-ai",
+      "nl": "https://botfounders.com/nl/bots/bitlax-smart-ai"
+    }
+  },
+  {
+    "robotName": "Bitplex 360",
+    "slug": "bitplex-360",
+    "urls": {
+      "en": "https://botfounders.com/bots/bitplex-360",
+      "de": "https://botfounders.com/de/bots/bitplex-360",
+      "es": "https://botfounders.com/es/bots/bitplex-360",
+      "fr": "https://botfounders.com/fr/bots/bitplex-360",
+      "it": "https://botfounders.com/it/bots/bitplex-360",
+      "pl": "https://botfounders.com/pl/bots/bitplex-360",
+      "pt": "https://botfounders.com/pt/bots/bitplex-360",
+      "nl": "https://botfounders.com/nl/bots/bitplex-360"
+    }
+  },
+  {
+    "robotName": "Bitplex AI",
+    "slug": "bitplex-ai",
+    "urls": {
+      "en": "https://botfounders.com/bots/bitplex-ai",
+      "de": "https://botfounders.com/de/bots/bitplex-ai",
+      "es": "https://botfounders.com/es/bots/bitplex-ai",
+      "fr": "https://botfounders.com/fr/bots/bitplex-ai",
+      "it": "https://botfounders.com/it/bots/bitplex-ai",
+      "pl": "https://botfounders.com/pl/bots/bitplex-ai",
+      "pt": "https://botfounders.com/pt/bots/bitplex-ai",
+      "nl": "https://botfounders.com/nl/bots/bitplex-ai"
+    }
+  },
+  {
+    "robotName": "BitQL",
+    "slug": "bitql",
+    "urls": {
+      "en": "https://botfounders.com/bots/bitql",
+      "de": "https://botfounders.com/de/bots/bitql",
+      "es": "https://botfounders.com/es/bots/bitql",
+      "fr": "https://botfounders.com/fr/bots/bitql",
+      "it": "https://botfounders.com/it/bots/bitql",
+      "pl": "https://botfounders.com/pl/bots/bitql",
+      "pt": "https://botfounders.com/pt/bots/bitql",
+      "nl": "https://botfounders.com/nl/bots/bitql"
+    }
+  },
+  {
+    "robotName": "Bitzest Genius",
+    "slug": "bitzest-genius",
+    "urls": {
+      "en": "https://botfounders.com/bots/bitzest-genius",
+      "de": "https://botfounders.com/de/bots/bitzest-genius",
+      "es": "https://botfounders.com/es/bots/bitzest-genius",
+      "fr": "https://botfounders.com/fr/bots/bitzest-genius",
+      "it": "https://botfounders.com/it/bots/bitzest-genius",
+      "pl": "https://botfounders.com/pl/bots/bitzest-genius",
+      "pt": "https://botfounders.com/pt/bots/bitzest-genius",
+      "nl": "https://botfounders.com/nl/bots/bitzest-genius"
+    }
+  },
+  {
+    "robotName": "Capital Zevionis",
+    "slug": "capital-zevionis",
+    "urls": {
+      "en": "https://botfounders.com/bots/capital-zevionis",
+      "de": "https://botfounders.com/de/bots/capital-zevionis",
+      "es": "https://botfounders.com/es/bots/capital-zevionis",
+      "fr": "https://botfounders.com/fr/bots/capital-zevionis",
+      "it": "https://botfounders.com/it/bots/capital-zevionis",
+      "pl": "https://botfounders.com/pl/bots/capital-zevionis",
+      "pt": "https://botfounders.com/pt/bots/capital-zevionis",
+      "nl": "https://botfounders.com/nl/bots/capital-zevionis"
+    }
+  },
+  {
+    "robotName": "Coinestix",
+    "slug": "coinestix",
+    "urls": {
+      "en": "https://botfounders.com/bots/coinestix",
+      "de": "https://botfounders.com/de/bots/coinestix",
+      "es": "https://botfounders.com/es/bots/coinestix",
+      "fr": "https://botfounders.com/fr/bots/coinestix",
+      "it": "https://botfounders.com/it/bots/coinestix",
+      "pl": "https://botfounders.com/pl/bots/coinestix",
+      "pt": "https://botfounders.com/pt/bots/coinestix",
+      "nl": "https://botfounders.com/nl/bots/coinestix"
+    }
+  },
+  {
+    "robotName": "Crimson Flux AI",
+    "slug": "crimson-flux-ai",
+    "urls": {
+      "en": "https://botfounders.com/bots/crimson-flux-ai",
+      "de": "https://botfounders.com/de/bots/crimson-flux-ai",
+      "es": "https://botfounders.com/es/bots/crimson-flux-ai",
+      "fr": "https://botfounders.com/fr/bots/crimson-flux-ai",
+      "it": "https://botfounders.com/it/bots/crimson-flux-ai",
+      "pl": "https://botfounders.com/pl/bots/crimson-flux-ai",
+      "pt": "https://botfounders.com/pt/bots/crimson-flux-ai",
+      "nl": "https://botfounders.com/nl/bots/crimson-flux-ai"
+    }
+  },
+  {
+    "robotName": "Crypto Explode AI",
+    "slug": "crypto-explode-ai",
+    "urls": {
+      "en": "https://botfounders.com/bots/crypto-explode-ai",
+      "de": "https://botfounders.com/de/bots/crypto-explode-ai",
+      "es": "https://botfounders.com/es/bots/crypto-explode-ai",
+      "fr": "https://botfounders.com/fr/bots/crypto-explode-ai",
+      "it": "https://botfounders.com/it/bots/crypto-explode-ai",
+      "pl": "https://botfounders.com/pl/bots/crypto-explode-ai",
+      "pt": "https://botfounders.com/pt/bots/crypto-explode-ai",
+      "nl": "https://botfounders.com/nl/bots/crypto-explode-ai"
+    }
+  },
+  {
+    "robotName": "Cryptonite AI",
+    "slug": "cryptonite-ai",
+    "urls": {
+      "en": "https://botfounders.com/bots/cryptonite-ai",
+      "de": "https://botfounders.com/de/bots/cryptonite-ai",
+      "es": "https://botfounders.com/es/bots/cryptonite-ai",
+      "fr": "https://botfounders.com/fr/bots/cryptonite-ai",
+      "it": "https://botfounders.com/it/bots/cryptonite-ai",
+      "pl": "https://botfounders.com/pl/bots/cryptonite-ai",
+      "pt": "https://botfounders.com/pt/bots/cryptonite-ai",
+      "nl": "https://botfounders.com/nl/bots/cryptonite-ai"
+    }
+  },
+  {
+    "robotName": "Cryzora GPT",
+    "slug": "cryzora-gpt",
+    "urls": {
+      "en": "https://botfounders.com/bots/cryzora-gpt",
+      "de": "https://botfounders.com/de/bots/cryzora-gpt",
+      "es": "https://botfounders.com/es/bots/cryzora-gpt",
+      "fr": "https://botfounders.com/fr/bots/cryzora-gpt",
+      "it": "https://botfounders.com/it/bots/cryzora-gpt",
+      "pl": "https://botfounders.com/pl/bots/cryzora-gpt",
+      "pt": "https://botfounders.com/pt/bots/cryzora-gpt",
+      "nl": "https://botfounders.com/nl/bots/cryzora-gpt"
+    }
+  },
+  {
+    "robotName": "Cyber Stratus AI",
+    "slug": "cyber-stratus-ai",
+    "urls": {
+      "en": "https://botfounders.com/bots/cyber-stratus-ai",
+      "de": "https://botfounders.com/de/bots/cyber-stratus-ai",
+      "es": "https://botfounders.com/es/bots/cyber-stratus-ai",
+      "fr": "https://botfounders.com/fr/bots/cyber-stratus-ai",
+      "it": "https://botfounders.com/it/bots/cyber-stratus-ai",
+      "pl": "https://botfounders.com/pl/bots/cyber-stratus-ai",
+      "pt": "https://botfounders.com/pt/bots/cyber-stratus-ai",
+      "nl": "https://botfounders.com/nl/bots/cyber-stratus-ai"
+    }
+  },
+  {
+    "robotName": "Cyphix Edge",
+    "slug": "cyphix-edge",
+    "urls": {
+      "en": "https://botfounders.com/bots/cyphix-edge",
+      "de": "https://botfounders.com/de/bots/cyphix-edge",
+      "es": "https://botfounders.com/es/bots/cyphix-edge",
+      "fr": "https://botfounders.com/fr/bots/cyphix-edge",
+      "it": "https://botfounders.com/it/bots/cyphix-edge",
+      "pl": "https://botfounders.com/pl/bots/cyphix-edge",
+      "pt": "https://botfounders.com/pt/bots/cyphix-edge",
+      "nl": "https://botfounders.com/nl/bots/cyphix-edge"
+    }
+  },
+  {
+    "robotName": "Deutschgenie",
+    "slug": "deutschgenie",
+    "urls": {
+      "en": "https://botfounders.com/bots/deutschgenie",
+      "de": "https://botfounders.com/de/bots/deutschgenie",
+      "es": "https://botfounders.com/es/bots/deutschgenie",
+      "fr": "https://botfounders.com/fr/bots/deutschgenie",
+      "it": "https://botfounders.com/it/bots/deutschgenie",
+      "pl": "https://botfounders.com/pl/bots/deutschgenie",
+      "pt": "https://botfounders.com/pt/bots/deutschgenie",
+      "nl": "https://botfounders.com/nl/bots/deutschgenie"
+    }
+  },
+  {
+    "robotName": "Digital Vortex",
+    "slug": "digital-vortex",
+    "urls": {
+      "en": "https://botfounders.com/bots/digital-vortex",
+      "de": "https://botfounders.com/de/bots/digital-vortex",
+      "es": "https://botfounders.com/es/bots/digital-vortex",
+      "fr": "https://botfounders.com/fr/bots/digital-vortex",
+      "it": "https://botfounders.com/it/bots/digital-vortex",
+      "pl": "https://botfounders.com/pl/bots/digital-vortex",
+      "pt": "https://botfounders.com/pt/bots/digital-vortex",
+      "nl": "https://botfounders.com/nl/bots/digital-vortex"
+    }
+  },
+  {
+    "robotName": "Drexiron Flow AI",
+    "slug": "drexiron-flow-ai",
+    "urls": {
+      "en": "https://botfounders.com/bots/drexiron-flow-ai",
+      "de": "https://botfounders.com/de/bots/drexiron-flow-ai",
+      "es": "https://botfounders.com/es/bots/drexiron-flow-ai",
+      "fr": "https://botfounders.com/fr/bots/drexiron-flow-ai",
+      "it": "https://botfounders.com/it/bots/drexiron-flow-ai",
+      "pl": "https://botfounders.com/pl/bots/drexiron-flow-ai",
+      "pt": "https://botfounders.com/pt/bots/drexiron-flow-ai",
+      "nl": "https://botfounders.com/nl/bots/drexiron-flow-ai"
+    }
+  },
+  {
+    "robotName": "Dynamisch Avonex",
+    "slug": "dynamisch-avonex",
+    "urls": {
+      "en": "https://botfounders.com/bots/dynamisch-avonex",
+      "de": "https://botfounders.com/de/bots/dynamisch-avonex",
+      "es": "https://botfounders.com/es/bots/dynamisch-avonex",
+      "fr": "https://botfounders.com/fr/bots/dynamisch-avonex",
+      "it": "https://botfounders.com/it/bots/dynamisch-avonex",
+      "pl": "https://botfounders.com/pl/bots/dynamisch-avonex",
+      "pt": "https://botfounders.com/pt/bots/dynamisch-avonex",
+      "nl": "https://botfounders.com/nl/bots/dynamisch-avonex"
+    }
+  },
+  {
+    "robotName": "Ethereum Code",
+    "slug": "ethereum-code",
+    "urls": {
+      "en": "https://botfounders.com/bots/ethereum-code",
+      "de": "https://botfounders.com/de/bots/ethereum-code",
+      "es": "https://botfounders.com/es/bots/ethereum-code",
+      "fr": "https://botfounders.com/fr/bots/ethereum-code",
+      "it": "https://botfounders.com/it/bots/ethereum-code",
+      "pl": "https://botfounders.com/pl/bots/ethereum-code",
+      "pt": "https://botfounders.com/pt/bots/ethereum-code",
+      "nl": "https://botfounders.com/nl/bots/ethereum-code"
+    }
+  },
+  {
+    "robotName": "Everix Edge",
+    "slug": "everix-edge",
+    "urls": {
+      "en": "https://botfounders.com/bots/everix-edge",
+      "de": "https://botfounders.com/de/bots/everix-edge",
+      "es": "https://botfounders.com/es/bots/everix-edge",
+      "fr": "https://botfounders.com/fr/bots/everix-edge",
+      "it": "https://botfounders.com/it/bots/everix-edge",
+      "pl": "https://botfounders.com/pl/bots/everix-edge",
+      "pt": "https://botfounders.com/pt/bots/everix-edge",
+      "nl": "https://botfounders.com/nl/bots/everix-edge"
+    }
   }
 ]
