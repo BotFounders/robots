@@ -1468,5 +1468,397 @@
       "pt": "https://botfounders.com/pt/bots/everix-edge",
       "nl": "https://botfounders.com/nl/bots/everix-edge"
     }
+  },
+  {
+    "robotName": "Evolution Zenith",
+    "slug": "evolution-zenith",
+    "urls": {
+      "en": "https://botfounders.com/bots/evolution-zenith",
+      "de": "https://botfounders.com/de/bots/evolution-zenith",
+      "es": "https://botfounders.com/es/bots/evolution-zenith",
+      "fr": "https://botfounders.com/fr/bots/evolution-zenith",
+      "it": "https://botfounders.com/it/bots/evolution-zenith",
+      "pl": "https://botfounders.com/pl/bots/evolution-zenith",
+      "pt": "https://botfounders.com/pt/bots/evolution-zenith",
+      "nl": "https://botfounders.com/nl/bots/evolution-zenith"
+    }
+  },
+  {
+    "robotName": "Exion Edge",
+    "slug": "exion-edge",
+    "urls": {
+      "en": "https://botfounders.com/bots/exion-edge",
+      "de": "https://botfounders.com/de/bots/exion-edge",
+      "es": "https://botfounders.com/es/bots/exion-edge",
+      "fr": "https://botfounders.com/fr/bots/exion-edge",
+      "it": "https://botfounders.com/it/bots/exion-edge",
+      "pl": "https://botfounders.com/pl/bots/exion-edge",
+      "pt": "https://botfounders.com/pt/bots/exion-edge",
+      "nl": "https://botfounders.com/nl/bots/exion-edge"
+    }
+  },
+  {
+    "robotName": "Fanar Falcon",
+    "slug": "fanar-falcon",
+    "urls": {
+      "en": "https://botfounders.com/bots/fanar-falcon",
+      "de": "https://botfounders.com/de/bots/fanar-falcon",
+      "es": "https://botfounders.com/es/bots/fanar-falcon",
+      "fr": "https://botfounders.com/fr/bots/fanar-falcon",
+      "it": "https://botfounders.com/it/bots/fanar-falcon",
+      "pl": "https://botfounders.com/pl/bots/fanar-falcon",
+      "pt": "https://botfounders.com/pt/bots/fanar-falcon",
+      "nl": "https://botfounders.com/nl/bots/fanar-falcon"
+    }
+  },
+  {
+    "robotName": "Fenorix Trader",
+    "slug": "fenorix-trader",
+    "urls": {
+      "en": "https://botfounders.com/bots/fenorix-trader",
+      "de": "https://botfounders.com/de/bots/fenorix-trader",
+      "es": "https://botfounders.com/es/bots/fenorix-trader",
+      "fr": "https://botfounders.com/fr/bots/fenorix-trader",
+      "it": "https://botfounders.com/it/bots/fenorix-trader",
+      "pl": "https://botfounders.com/pl/bots/fenorix-trader",
+      "pt": "https://botfounders.com/pt/bots/fenorix-trader",
+      "nl": "https://botfounders.com/nl/bots/fenorix-trader"
+    }
+  },
+  {
+    "robotName": "Fintria Pro",
+    "slug": "fintria-pro",
+    "urls": {
+      "en": "https://botfounders.com/bots/fintria-pro",
+      "de": "https://botfounders.com/de/bots/fintria-pro",
+      "es": "https://botfounders.com/es/bots/fintria-pro",
+      "fr": "https://botfounders.com/fr/bots/fintria-pro",
+      "it": "https://botfounders.com/it/bots/fintria-pro",
+      "pl": "https://botfounders.com/pl/bots/fintria-pro",
+      "pt": "https://botfounders.com/pt/bots/fintria-pro",
+      "nl": "https://botfounders.com/nl/bots/fintria-pro"
+    }
+  },
+  {
+    "robotName": "Fondmatex App",
+    "slug": "fondmatex-app",
+    "urls": {
+      "en": "https://botfounders.com/bots/fondmatex-app",
+      "de": "https://botfounders.com/de/bots/fondmatex-app",
+      "es": "https://botfounders.com/es/bots/fondmatex-app",
+      "fr": "https://botfounders.com/fr/bots/fondmatex-app",
+      "it": "https://botfounders.com/it/bots/fondmatex-app",
+      "pl": "https://botfounders.com/pl/bots/fondmatex-app",
+      "pt": "https://botfounders.com/pt/bots/fondmatex-app",
+      "nl": "https://botfounders.com/nl/bots/fondmatex-app"
+    }
+  },
+  {
+    "robotName": "Funnel Epsilon",
+    "slug": "funnel-epsilon",
+    "urls": {
+      "en": "https://botfounders.com/bots/funnel-epsilon",
+      "de": "https://botfounders.com/de/bots/funnel-epsilon",
+      "es": "https://botfounders.com/es/bots/funnel-epsilon",
+      "fr": "https://botfounders.com/fr/bots/funnel-epsilon",
+      "it": "https://botfounders.com/it/bots/funnel-epsilon",
+      "pl": "https://botfounders.com/pl/bots/funnel-epsilon",
+      "pt": "https://botfounders.com/pt/bots/funnel-epsilon",
+      "nl": "https://botfounders.com/nl/bots/funnel-epsilon"
+    }
+  },
+  {
+    "robotName": "G42 Profit",
+    "slug": "g42-profit",
+    "urls": {
+      "en": "https://botfounders.com/bots/g42-profit",
+      "de": "https://botfounders.com/de/bots/g42-profit",
+      "es": "https://botfounders.com/es/bots/g42-profit",
+      "fr": "https://botfounders.com/fr/bots/g42-profit",
+      "it": "https://botfounders.com/it/bots/g42-profit",
+      "pl": "https://botfounders.com/pl/bots/g42-profit",
+      "pt": "https://botfounders.com/pt/bots/g42-profit",
+      "nl": "https://botfounders.com/nl/bots/g42-profit"
+    }
+  },
+  {
+    "robotName": "BitKros",
+    "slug": "bitkros",
+    "urls": {
+      "en": "https://botfounders.com/bots/bitkros",
+      "de": "https://botfounders.com/de/bots/bitkros",
+      "es": "https://botfounders.com/es/bots/bitkros",
+      "fr": "https://botfounders.com/fr/bots/bitkros",
+      "it": "https://botfounders.com/it/bots/bitkros",
+      "pl": "https://botfounders.com/pl/bots/bitkros",
+      "pt": "https://botfounders.com/pt/bots/bitkros",
+      "nl": "https://botfounders.com/nl/bots/bitkros"
+    }
+  },
+  {
+    "robotName": "Zentravex",
+    "slug": "zentravex",
+    "urls": {
+      "en": "https://botfounders.com/bots/zentravex",
+      "de": "https://botfounders.com/de/bots/zentravex",
+      "es": "https://botfounders.com/es/bots/zentravex",
+      "fr": "https://botfounders.com/fr/bots/zentravex",
+      "it": "https://botfounders.com/it/bots/zentravex",
+      "pl": "https://botfounders.com/pl/bots/zentravex",
+      "pt": "https://botfounders.com/pt/bots/zentravex",
+      "nl": "https://botfounders.com/nl/bots/zentravex"
+    }
+  },
+  {
+    "robotName": "Zelmintrax",
+    "slug": "zelmintrax",
+    "urls": {
+      "en": "https://botfounders.com/bots/zelmintrax",
+      "de": "https://botfounders.com/de/bots/zelmintrax",
+      "es": "https://botfounders.com/es/bots/zelmintrax",
+      "fr": "https://botfounders.com/fr/bots/zelmintrax",
+      "it": "https://botfounders.com/it/bots/zelmintrax",
+      "pl": "https://botfounders.com/pl/bots/zelmintrax",
+      "pt": "https://botfounders.com/pt/bots/zelmintrax",
+      "nl": "https://botfounders.com/nl/bots/zelmintrax"
+    }
+  },
+  {
+    "robotName": "BlueQubit",
+    "slug": "bluequbit",
+    "urls": {
+      "en": "https://botfounders.com/bots/bluequbit",
+      "de": "https://botfounders.com/de/bots/bluequbit",
+      "es": "https://botfounders.com/es/bots/bluequbit",
+      "fr": "https://botfounders.com/fr/bots/bluequbit",
+      "it": "https://botfounders.com/it/bots/bluequbit",
+      "pl": "https://botfounders.com/pl/bots/bluequbit",
+      "pt": "https://botfounders.com/pt/bots/bluequbit",
+      "nl": "https://botfounders.com/nl/bots/bluequbit"
+    }
+  },
+  {
+    "robotName": "TradeGPT",
+    "slug": "tradegpt",
+    "urls": {
+      "en": "https://botfounders.com/bots/tradegpt",
+      "de": "https://botfounders.com/de/bots/tradegpt",
+      "es": "https://botfounders.com/es/bots/tradegpt",
+      "fr": "https://botfounders.com/fr/bots/tradegpt",
+      "it": "https://botfounders.com/it/bots/tradegpt",
+      "pl": "https://botfounders.com/pl/bots/tradegpt",
+      "pt": "https://botfounders.com/pt/bots/tradegpt",
+      "nl": "https://botfounders.com/nl/bots/tradegpt"
+    }
+  },
+  {
+    "robotName": "Gasylix",
+    "slug": "gasylix",
+    "urls": {
+      "en": "https://botfounders.com/bots/gasylix",
+      "de": "https://botfounders.com/de/bots/gasylix",
+      "es": "https://botfounders.com/es/bots/gasylix",
+      "fr": "https://botfounders.com/fr/bots/gasylix",
+      "it": "https://botfounders.com/it/bots/gasylix",
+      "pl": "https://botfounders.com/pl/bots/gasylix",
+      "pt": "https://botfounders.com/pt/bots/gasylix",
+      "nl": "https://botfounders.com/nl/bots/gasylix"
+    }
+  },
+  {
+    "robotName": "GebroluxPro",
+    "slug": "gebroluxpro",
+    "urls": {
+      "en": "https://botfounders.com/bots/gebroluxpro",
+      "de": "https://botfounders.com/de/bots/gebroluxpro",
+      "es": "https://botfounders.com/es/bots/gebroluxpro",
+      "fr": "https://botfounders.com/fr/bots/gebroluxpro",
+      "it": "https://botfounders.com/it/bots/gebroluxpro",
+      "pl": "https://botfounders.com/pl/bots/gebroluxpro",
+      "pt": "https://botfounders.com/pt/bots/gebroluxpro",
+      "nl": "https://botfounders.com/nl/bots/gebroluxpro"
+    }
+  },
+  {
+    "robotName": "Gira Doreix",
+    "slug": "gira-doreix",
+    "urls": {
+      "en": "https://botfounders.com/bots/gira-doreix",
+      "de": "https://botfounders.com/de/bots/gira-doreix",
+      "es": "https://botfounders.com/es/bots/gira-doreix",
+      "fr": "https://botfounders.com/fr/bots/gira-doreix",
+      "it": "https://botfounders.com/it/bots/gira-doreix",
+      "pl": "https://botfounders.com/pl/bots/gira-doreix",
+      "pt": "https://botfounders.com/pt/bots/gira-doreix",
+      "nl": "https://botfounders.com/nl/bots/gira-doreix"
+    }
+  },
+  {
+    "robotName": "Kapfexpro",
+    "slug": "kapfexpro",
+    "urls": {
+      "en": "https://botfounders.com/bots/kapfexpro",
+      "de": "https://botfounders.com/de/bots/kapfexpro",
+      "es": "https://botfounders.com/es/bots/kapfexpro",
+      "fr": "https://botfounders.com/fr/bots/kapfexpro",
+      "it": "https://botfounders.com/it/bots/kapfexpro",
+      "pl": "https://botfounders.com/pl/bots/kapfexpro",
+      "pt": "https://botfounders.com/pt/bots/kapfexpro",
+      "nl": "https://botfounders.com/nl/bots/kapfexpro"
+    }
+  },
+  {
+    "robotName": "Zenthrauv",
+    "slug": "zenthrauv",
+    "urls": {
+      "en": "https://botfounders.com/bots/zenthrauv",
+      "de": "https://botfounders.com/de/bots/zenthrauv",
+      "es": "https://botfounders.com/es/bots/zenthrauv",
+      "fr": "https://botfounders.com/fr/bots/zenthrauv",
+      "it": "https://botfounders.com/it/bots/zenthrauv",
+      "pl": "https://botfounders.com/pl/bots/zenthrauv",
+      "pt": "https://botfounders.com/pt/bots/zenthrauv",
+      "nl": "https://botfounders.com/nl/bots/zenthrauv"
+    }
+  },
+  {
+    "robotName": "Vireon Solvar",
+    "slug": "vireon-solvar",
+    "urls": {
+      "en": "https://botfounders.com/bots/vireon-solvar",
+      "de": "https://botfounders.com/de/bots/vireon-solvar",
+      "es": "https://botfounders.com/es/bots/vireon-solvar",
+      "fr": "https://botfounders.com/fr/bots/vireon-solvar",
+      "it": "https://botfounders.com/it/bots/vireon-solvar",
+      "pl": "https://botfounders.com/pl/bots/vireon-solvar",
+      "pt": "https://botfounders.com/pt/bots/vireon-solvar",
+      "nl": "https://botfounders.com/nl/bots/vireon-solvar"
+    }
+  },
+  {
+    "robotName": "Aluma Chainex",
+    "slug": "aluma-chainex",
+    "urls": {
+      "en": "https://botfounders.com/bots/aluma-chainex",
+      "de": "https://botfounders.com/de/bots/aluma-chainex",
+      "es": "https://botfounders.com/es/bots/aluma-chainex",
+      "fr": "https://botfounders.com/fr/bots/aluma-chainex",
+      "it": "https://botfounders.com/it/bots/aluma-chainex",
+      "pl": "https://botfounders.com/pl/bots/aluma-chainex",
+      "pt": "https://botfounders.com/pt/bots/aluma-chainex",
+      "nl": "https://botfounders.com/nl/bots/aluma-chainex"
+    }
+  },
+  {
+    "robotName": "Berlutexget",
+    "slug": "berlutexget",
+    "urls": {
+      "en": "https://botfounders.com/bots/berlutexget",
+      "de": "https://botfounders.com/de/bots/berlutexget",
+      "es": "https://botfounders.com/es/bots/berlutexget",
+      "fr": "https://botfounders.com/fr/bots/berlutexget",
+      "it": "https://botfounders.com/it/bots/berlutexget",
+      "pl": "https://botfounders.com/pl/bots/berlutexget",
+      "pt": "https://botfounders.com/pt/bots/berlutexget",
+      "nl": "https://botfounders.com/nl/bots/berlutexget"
+    }
+  },
+  {
+    "robotName": "Oil Veltrix",
+    "slug": "oil-veltrix",
+    "urls": {
+      "en": "https://botfounders.com/bots/oil-veltrix",
+      "de": "https://botfounders.com/de/bots/oil-veltrix",
+      "es": "https://botfounders.com/es/bots/oil-veltrix",
+      "fr": "https://botfounders.com/fr/bots/oil-veltrix",
+      "it": "https://botfounders.com/it/bots/oil-veltrix",
+      "pl": "https://botfounders.com/pl/bots/oil-veltrix",
+      "pt": "https://botfounders.com/pt/bots/oil-veltrix",
+      "nl": "https://botfounders.com/nl/bots/oil-veltrix"
+    }
+  },
+  {
+    "robotName": "Kapixfin",
+    "slug": "kapixfin",
+    "urls": {
+      "en": "https://botfounders.com/bots/kapixfin",
+      "de": "https://botfounders.com/de/bots/kapixfin",
+      "es": "https://botfounders.com/es/bots/kapixfin",
+      "fr": "https://botfounders.com/fr/bots/kapixfin",
+      "it": "https://botfounders.com/it/bots/kapixfin",
+      "pl": "https://botfounders.com/pl/bots/kapixfin",
+      "pt": "https://botfounders.com/pt/bots/kapixfin",
+      "nl": "https://botfounders.com/nl/bots/kapixfin"
+    }
+  },
+  {
+    "robotName": "Pemex Thymix",
+    "slug": "pemex-thymix",
+    "urls": {
+      "en": "https://botfounders.com/bots/pemex-thymix",
+      "de": "https://botfounders.com/de/bots/pemex-thymix",
+      "es": "https://botfounders.com/es/bots/pemex-thymix",
+      "fr": "https://botfounders.com/fr/bots/pemex-thymix",
+      "it": "https://botfounders.com/it/bots/pemex-thymix",
+      "pl": "https://botfounders.com/pl/bots/pemex-thymix",
+      "pt": "https://botfounders.com/pt/bots/pemex-thymix",
+      "nl": "https://botfounders.com/nl/bots/pemex-thymix"
+    }
+  },
+  {
+    "robotName": "Kaira Viax",
+    "slug": "kaira-viax",
+    "urls": {
+      "en": "https://botfounders.com/bots/kaira-viax",
+      "de": "https://botfounders.com/de/bots/kaira-viax",
+      "es": "https://botfounders.com/es/bots/kaira-viax",
+      "fr": "https://botfounders.com/fr/bots/kaira-viax",
+      "it": "https://botfounders.com/it/bots/kaira-viax",
+      "pl": "https://botfounders.com/pl/bots/kaira-viax",
+      "pt": "https://botfounders.com/pt/bots/kaira-viax",
+      "nl": "https://botfounders.com/nl/bots/kaira-viax"
+    }
+  },
+  {
+    "robotName": "Quantum Maxair 6.0",
+    "slug": "quantum-maxair-6.0",
+    "urls": {
+      "en": "https://botfounders.com/bots/quantum-maxair-6.0",
+      "de": "https://botfounders.com/de/bots/quantum-maxair-6.0",
+      "es": "https://botfounders.com/es/bots/quantum-maxair-6.0",
+      "fr": "https://botfounders.com/fr/bots/quantum-maxair-6.0",
+      "it": "https://botfounders.com/it/bots/quantum-maxair-6.0",
+      "pl": "https://botfounders.com/pl/bots/quantum-maxair-6.0",
+      "pt": "https://botfounders.com/pt/bots/quantum-maxair-6.0",
+      "nl": "https://botfounders.com/nl/bots/quantum-maxair-6.0"
+    }
+  },
+  {
+    "robotName": "Gamma Ember",
+    "slug": "gamma-ember",
+    "urls": {
+      "en": "https://botfounders.com/bots/gamma-ember",
+      "de": "https://botfounders.com/de/bots/gamma-ember",
+      "es": "https://botfounders.com/es/bots/gamma-ember",
+      "fr": "https://botfounders.com/fr/bots/gamma-ember",
+      "it": "https://botfounders.com/it/bots/gamma-ember",
+      "pl": "https://botfounders.com/pl/bots/gamma-ember",
+      "pt": "https://botfounders.com/pt/bots/gamma-ember",
+      "nl": "https://botfounders.com/nl/bots/gamma-ember"
+    }
+  },
+  {
+    "robotName": "Aumenta Liora",
+    "slug": "aumenta-liora",
+    "urls": {
+      "en": "https://botfounders.com/bots/aumenta-liora",
+      "de": "https://botfounders.com/de/bots/aumenta-liora",
+      "es": "https://botfounders.com/es/bots/aumenta-liora",
+      "fr": "https://botfounders.com/fr/bots/aumenta-liora",
+      "it": "https://botfounders.com/it/bots/aumenta-liora",
+      "pl": "https://botfounders.com/pl/bots/aumenta-liora",
+      "pt": "https://botfounders.com/pt/bots/aumenta-liora",
+      "nl": "https://botfounders.com/nl/bots/aumenta-liora"
+    }
   }
 ]
